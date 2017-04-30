@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+
+<body class="site bg-grey-light">
+
+<div class="bg-black site-content">
+
+    {% include header.html %}
+
+    <div class="bg-black text-white">
+        <div class="grid-960">
+            <div class="cols">
+                <div class="col xs-col-12 md-col-8">
+{% comment %}                {% if page.title != "Home" %}
+                    <h1>{{ page.title }}</h1>
+                {% endif %}
+{% endcomment %}
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
+
+</body>
+</html>

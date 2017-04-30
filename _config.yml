@@ -1,0 +1,21 @@
+---
+title: YOKO.IS
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  stuff:
+    title: Stuff
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: ysohama@gmail.com
+description: This is the personal website and portfolio of Yoko Sakao Ohama, a Brooklyn-based
+  multidisciplinary designer.
+baseurl: 
+url: http://yoko.siteleaf.net
+twitter_username: psyoko
+github_username: psyoko
+markdown: kramdown

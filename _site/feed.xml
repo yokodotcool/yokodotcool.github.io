@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YOKO.IS</title>
+    <description>This is the personal website and portfolio of Yoko Sakao Ohama, a Brooklyn-based multidisciplinary designer.</description>
+    <link>http://yoko.siteleaf.net/</link>
+    <atom:link href="http://yoko.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 29 Apr 2017 11:42:43 -0400</pubDate>
+    <lastBuildDate>Sat, 29 Apr 2017 11:42:43 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>New post???</title>
+        <description>&lt;p&gt;Uhh&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Mar 2017 01:08:00 -0400</pubDate>
+        <link>http://yoko.siteleaf.net/2017/03/26/new-post.html</link>
+        <guid isPermaLink="true">http://yoko.siteleaf.net/2017/03/26/new-post.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>New post from local???</title>
+        <description>&lt;p&gt;Uhh&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://yoko.siteleaf.net/2017/03/01/new-post-from-local.html</link>
+        <guid isPermaLink="true">http://yoko.siteleaf.net/2017/03/01/new-post-from-local.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 19 Feb 2017 14:29:00 -0500</pubDate>
+        <link>http://yoko.siteleaf.net/2017/02/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yoko.siteleaf.net/2017/02/19/welcome-to-jekyll.html</guid>
+        
+        <category>testing</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Alcatraz + SF Splorin</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/uploads/old-alcatraz-feet.jpg&quot; alt=&quot;Went to Alcatraz, y’all!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently returned from an epic 2-week vacation, in which I walked all over San Francisco and then met up with Kevin for &lt;a href=&quot;http://craigandkaryn.com&quot;&gt;a wedding&lt;/a&gt; in Seattle. I had just watched &lt;a href=&quot;http://www.imdb.com/title/tt0117500/&quot;&gt;The Rock&lt;/a&gt;, Kevin’s favorite action movie of all time, so I was pumped to visit Alcatraz while I was in SF and was doubly excited to learn that Ai Weiwei had just opened an on-site exhibit there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/old-alcatraz-benches.jpg&quot; alt=&quot;I believe this was the library.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/old-alcatraz-box.jpg&quot; alt=&quot;Some electric box I found.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aside from the fantastic immersive audio tour, I was struck by how beautiful the light was inside the buildings at Alcatraz. Maybe I went at the perfect time on the perfect day, but the light that was coming in through the latticed windows was just awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/old-alcatraz-ward.jpg&quot; alt=&quot;Hospital ward. Just crazy.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/old-alcatraz-sink.jpg&quot; alt=&quot;A sink in the mess hall.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/old-alcatraz-room.jpg&quot; alt=&quot;Random room.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I would even venture to say that I was most impressed by the lighting of the place rather than any of the Ai Weiwei installations themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/old-alcatraz-with_wind.jpg&quot; alt=&quot;With Wind by Ai Weiwei&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/old-alcatraz-blossom.jpg&quot; alt=&quot;Blossom by Ai Weiwei&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/old-alcatraz-trace.jpg&quot; alt=&quot;Trace by Ai Weiwei&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.for-site.org/project/ai-weiwei-alcatraz/&quot;&gt;More on @Large&lt;/a&gt;, the Ai Weiwei on-site exhibition on Alcatraz.&lt;/p&gt;
+
+&lt;p&gt;If you’re thinking of going to the Bay anytime soon, here’s a &lt;a href=&quot;https://www.mapbox.com/editor/?id=psyoko.jnk51ifd#app&quot;&gt;comprehensive map&lt;/a&gt; of every place I went to, plus some walking routes (that I don’t necessarily recommend):&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; src=&quot;https://a.tiles.mapbox.com/v4/psyoko.jnk51ifd/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoicHN5b2tvIiwiYSI6Ind4T05HY1kifQ.r-44XyZkJ87TR_yTWmldpA&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 17 Oct 2014 13:21:00 -0400</pubDate>
+        <link>http://yoko.siteleaf.net/2014/10/17/alcatraz-sf-splorin.html</link>
+        <guid isPermaLink="true">http://yoko.siteleaf.net/2014/10/17/alcatraz-sf-splorin.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
