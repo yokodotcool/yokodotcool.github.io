@@ -44,7 +44,6 @@ $yellow: #ffe000;
 .bg-grey-lightest { background-color: $grey-lightest; }
 .bg-grey-light { background-color: $grey-light; }
 .text-white { color: $white; }
-.text-small { font-size: $small-font-size; }
 .centered {
 	margin-left: auto; 
 	margin-right: auto;
@@ -80,14 +79,6 @@ $yellow: #ffe000;
 **	Styles
 */
 
-h1 {
-  font-weight: 300;
-}
-
-h2 {
-  font-weight: 300;
-}
-
 p a,
 ol a,
 ul a {
@@ -105,8 +96,8 @@ body {
 	letter-spacing: $primary-letter-spacing; 
 }
 
-p:not(:last-child) {
-    margin-bottom: .875rem; 
+img {
+  width: 100%; 
 }
 
 // 	Clearfix
@@ -121,3 +112,4 @@ p:not(:last-child) {
 /*	Import stuff */
 
 @import "responsive-grid.scss";
+@import "typography.scss";

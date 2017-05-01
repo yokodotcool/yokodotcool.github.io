@@ -27,9 +27,6 @@ html, body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figu
 .text-white {
   color: #ffffff; }
 
-.text-small {
-  font-size: 14px; }
-
 .centered {
   margin-left: auto;
   margin-right: auto; }
@@ -61,12 +58,6 @@ html, body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figu
 /* 
 **	Styles
 */
-h1 {
-  font-weight: 300; }
-
-h2 {
-  font-weight: 300; }
-
 p a,
 ol a,
 ul a {
@@ -82,8 +73,8 @@ body {
   font: 300 16px/1.625 acumin-pro, Arial, sans-serif;
   letter-spacing: 0.05em; }
 
-p:not(:last-child) {
-  margin-bottom: .875rem; }
+img {
+  width: 100%; }
 
 /*	Import stuff */
 /* I don’t know what the eff I’m doing but here we go. */
@@ -288,3 +279,23 @@ p:not(:last-child) {
 
 .col-12 {
   width: 100%; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300; }
+
+.headline {
+  font-size: 2em; }
+
+.headline-smaller {
+  font-size: 1.25em; }
+
+.text-small {
+  font-size: .875em; }
+
+p:not(:last-child) {
+  margin-bottom: .875rem; }

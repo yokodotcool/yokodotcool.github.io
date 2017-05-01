@@ -1,0 +1,24 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300; 
+}
+
+.headline {
+    font-size: 2em; 
+}
+
+.headline-smaller {
+    font-size: 1.25em; 
+}
+
+.text-small {
+    font-size: .875em; 
+}
+
+p:not(:last-child) {
+    margin-bottom: .875rem; 
+}
