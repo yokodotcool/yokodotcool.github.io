@@ -1,101 +1,59 @@
-/* I don’t know what the eff I’m doing but here we go. */
-
-/*	Media queries??? Idk */
-
-@media screen and (min-width: 0px) {
-	.xs-col-1 	{ width: 1/12 * 100%; }
-	.xs-col-2	{ width: 2/12 * 100%; }
-	.xs-col-3	{ width: 3/12 * 100%; }
-	.xs-col-4	{ width: 4/12 * 100%; }
-	.xs-col-5	{ width: 5/12 * 100%; }
-	.xs-col-6	{ width: 6/12 * 100%; }
-	.xs-col-7	{ width: 7/12 * 100%; }
-	.xs-col-8	{ width: 8/12 * 100%; }
-	.xs-col-9	{ width: 9/12 * 100%; }
-	.xs-col-10	{ width: 10/12 * 100%; }
-	.xs-col-11	{ width: 11/12 * 100%; }
-	.xs-col-12	{ width: 12/12 * 100%; }
-}
-@media screen and (min-width: 401px) {
-	.sm-col-1 	{ width: 1/12 * 100%; }
-	.sm-col-2	{ width: 2/12 * 100%; }
-	.sm-col-3	{ width: 3/12 * 100%; }
-	.sm-col-4	{ width: 4/12 * 100%; }
-	.sm-col-5	{ width: 5/12 * 100%; }
-	.sm-col-6	{ width: 6/12 * 100%; }
-	.sm-col-7	{ width: 7/12 * 100%; }
-	.sm-col-8	{ width: 8/12 * 100%; }
-	.sm-col-9	{ width: 9/12 * 100%; }
-	.sm-col-10	{ width: 10/12 * 100%; }
-	.sm-col-11	{ width: 11/12 * 100%; }
-	.sm-col-12	{ width: 12/12 * 100%; }	
-}
-@media screen and (min-width: 801px) {
-	.md-col-1 	{ width: 1/12 * 100%; }
-	.md-col-2	{ width: 2/12 * 100%; }
-	.md-col-3	{ width: 3/12 * 100%; }
-	.md-col-4	{ width: 4/12 * 100%; }
-	.md-col-5	{ width: 5/12 * 100%; }
-	.md-col-6	{ width: 6/12 * 100%; }
-	.md-col-7	{ width: 7/12 * 100%; }
-	.md-col-8	{ width: 8/12 * 100%; }
-	.md-col-9	{ width: 9/12 * 100%; }
-	.md-col-10	{ width: 10/12 * 100%; }
-	.md-col-11	{ width: 11/12 * 100%; }
-	.md-col-12	{ width: 12/12 * 100%; }	
-}
-@media screen and (min-width: 1201px) {
-	.lg-col-1 	{ width: 1/12 * 100%; }
-	.lg-col-2	{ width: 2/12 * 100%; }
-	.lg-col-3	{ width: 3/12 * 100%; }
-	.lg-col-4	{ width: 4/12 * 100%; }
-	.lg-col-5	{ width: 5/12 * 100%; }
-	.lg-col-6	{ width: 6/12 * 100%; }
-	.lg-col-7	{ width: 7/12 * 100%; }
-	.lg-col-8	{ width: 8/12 * 100%; }
-	.lg-col-9	{ width: 9/12 * 100%; }
-	.lg-col-10	{ width: 10/12 * 100%; }
-	.lg-col-11	{ width: 11/12 * 100%; }
-	.lg-col-12	{ width: 12/12 * 100%; }	
-}
+//  The grid
 
 .grid-960 {
-	max-width: 980px;
-	width: 100%; 
+    max-width: 980px;
+    width: 100%; 
 
-	margin-left: auto; 
-	margin-right: auto;
-	padding-left: 20px; 
-	padding-right: 20px; 
+    margin-left: auto; 
+    margin-right: auto;
+    padding-left: 20px; 
+    padding-right: 20px; 
 }
 
 .cols {
-	float: none;
-	position: relative;
-	overflow: auto;
+    float: none;
+    position: relative;
+    overflow: auto;
 
-	margin-left: -10px; 
-	margin-right: -10px; 
+    margin-left: -10px; 
+    margin-right: -10px; 
 }
 
 .col {
-	float: left;
+    float: left;
 
-	padding-left: 10px; 
-	padding-right: 10px; 
+    padding-left: 10px; 
+    padding-right: 10px; 
 }
 
-/*	Idk at some point this will be useful */
+//  Media queries
 
-.col-1 	{ width: 1/12 * 100%; }
-.col-2	{ width: 2/12 * 100%; }
-.col-3	{ width: 3/12 * 100%; }
-.col-4	{ width: 4/12 * 100%; }
-.col-5	{ width: 5/12 * 100%; }
-.col-6	{ width: 6/12 * 100%; }
-.col-7	{ width: 7/12 * 100%; }
-.col-8	{ width: 8/12 * 100%; }
-.col-9	{ width: 9/12 * 100%; }
-.col-10	{ width: 10/12 * 100%; }
-.col-11	{ width: 11/12 * 100%; }
-.col-12	{ width: 12/12 * 100%; }
+$number-of-columns: 12; 
+
+@media screen and (min-width: 0px) {
+    @for $i from 1 through $number-of-columns {
+        $width: ( 1/$number-of-columns * $i * 100%);
+        .xs-col-#{$i} { width: $width; }
+    }
+}
+
+@media screen and (min-width: 400px) {
+    @for $i from 1 through $number-of-columns {
+        $width: ( 1/$number-of-columns * $i * 100%);
+        .sm-col-#{$i} { width: $width; }
+    }
+}
+
+@media screen and (min-width: 800px) {
+    @for $i from 1 through $number-of-columns {
+        $width: ( 1/$number-of-columns * $i * 100%);
+        .md-col-#{$i} { width: $width; }
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    @for $i from 1 through $number-of-columns {
+        $width: ( 1/$number-of-columns * $i * 100%);
+        .lg-col-#{$i} { width: $width; }
+    }
+}

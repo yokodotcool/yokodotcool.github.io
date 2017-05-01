@@ -1,11 +1,39 @@
+//  Variables
+
+$font-stack: acumin-pro, Arial, sans-serif; 
+$primary-font-size: 16px; 
+$primary-font-weight: 300;
+$primary-letter-spacing: 0.05em;
+$small-font-size: $primary-font-size * .875; 
+$base-line-height: 1.625; 
+
+//  Element-level styles
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    font-weight: 300; 
+    font-family: $font-stack; 
+    font-weight: $primary-font-weight;
+    letter-spacing: $primary-letter-spacing;
 }
+
+p,
+ol,
+ul {
+    font-family: $font-stack;
+    font-weight: $primary-font-weight;
+    letter-spacing: $primary-letter-spacing;
+}
+
+a {
+    border-bottom: 1px solid $yellow;
+    text-decoration: none;
+}
+
+//  Classes
 
 .headline {
     font-size: 2em; 
@@ -17,8 +45,4 @@ h6 {
 
 .text-small {
     font-size: .875em; 
-}
-
-p:not(:last-child) {
-    margin-bottom: .875rem; 
 }
