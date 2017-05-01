@@ -1,0 +1,28 @@
+//  Variables
+
+$black: #222222;
+$grey-dark: #444444;
+$grey-lightest: #f0f0f0; 
+$grey-light: #cccccc; 
+$white: #ffffff;
+$yellow: #ffe000;
+
+//  Element-level style
+
+a {
+    color: inherit; 
+}
+
+//  Classes
+
+.bg-black { 
+    background-color: $black;
+}
+
+.bg-grey-light {
+    background-color: $grey-light;
+}
+
+.text-white {
+    color: $white;
+}
