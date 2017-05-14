@@ -16,28 +16,28 @@ $number-of-columns: 12;
 @media screen and (min-width: 0px) {
     @for $i from 1 through $number-of-columns {
         $width: ( 1/$number-of-columns * $i * 100%);
-        .xs-col-#{$i} { width: $width;}
+        .col-xs-#{$i} { width: $width;}
     }
 }
 
 @media screen and (min-width: 400px) {
     @for $i from 1 through $number-of-columns {
         $width: ( 1/$number-of-columns * $i * 100%);
-        .sm-col-#{$i} { width: $width;}
+        .col-sm-#{$i} { width: $width;}
     }
 }
 
 @media screen and (min-width: 800px) {
     @for $i from 1 through $number-of-columns {
         $width: ( 1/$number-of-columns * $i * 100%);
-        .md-col-#{$i} { width: $width;}
+        .col-md-#{$i} { width: $width;}
     }
 }
 
 @media screen and (min-width: 1200px) {
     @for $i from 1 through $number-of-columns {
         $width: ( 1/$number-of-columns * $i * 100%);
-        .lg-col-#{$i} { width: $width;}
+        .col-lg-#{$i} { width: $width;}
     }
 }
 

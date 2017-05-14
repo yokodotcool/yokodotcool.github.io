@@ -1,5 +1,19 @@
+<!-- Nav Idk -->
 <div class="grid-960">
-    <img id="header-panda" class="glow size-sm nml-4" alt="Random panda drawing"/>
+    <div class="cols">
+        <div class="col col-xs-6 text-white"><a href="/" class="no-underline">yoko.is</a></div>
+        <div class="col col-xs-6 text-white">
+            <ul class="list-unstyled">
+              {% for page in site.pages %}
+                  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+              {% endfor %}  <!-- page -->
+            </ul>            
+        </div>
+    </div>
+</div>
+<!-- Random panda -->
+<div class="grid-960">
+    <img id="header-panda" class="glow size-sm nml-5" alt="Random panda drawing"/>
 </div>
 
 <script type="text/javascript">
