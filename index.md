@@ -1,6 +1,7 @@
-<!-- title: Home
+---
+title: Home
 permalink: "/"
-layout: default -->
+---
 
 Lol yes I am aware that the CSS is broken I will figure it out ty for stopping by!
 
