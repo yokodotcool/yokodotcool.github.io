@@ -1,7 +1,7 @@
 ---
 title: Garbage cat
-layout: post
 date: 2017-05-29 21:52:00 -04:00
+layout: post
 ---
 
 <div class="cols">
