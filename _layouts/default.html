@@ -3,29 +3,25 @@
 
     {% include head.html %}
 
+    <body class="site bg-grey-light">
+        <div class="bg-black site-content">
+            {% if page.title == "Home" %}
+                {% include header-home.html %}
+            {% else %}
+                {% include header-default.html %}
+            {% endif %}
 
-<body class="site bg-grey-light">
-
-<div class="bg-black site-content">
-
-    {% include header.html %}
-
-    <div class="bg-black text-white mb-6">
-        <div class="grid-960">
-            <div class="cols">
-                <div class="col col-xs-12 col-md-8">
-{% comment %}                {% if page.title != "Home" %}
-                    <h1>{{ page.title }}</h1>
-                {% endif %}
-{% endcomment %}
-                    {{ content }}
+            <div class="bg-black text-white mb-6">
+                <div class="grid-960">
+                    <div class="cols">
+                        <div class="col col-xs-12 col-md-8">
+                            {{ content }}
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
 
-{% include footer.html %}
-
-</body>
+        {% include footer.html %}
+    </body>
 </html>

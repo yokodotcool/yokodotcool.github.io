@@ -2,15 +2,20 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="content" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="mb-2">
+        <h1 itemprop="name headline">{{ page.title }}</h1>
+    </header>
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+    <main class="mb-2" itemprop="articleBody">
+        {{ content }}
+    </main>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
+    <footer class="mb-2">
+        <p class="text-small">
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d %Y" }}</time><br />
+            {% if page.author %}<br /><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
+            <a href="/everything">Back to the big list of posts</a>
+        </p>
+    </footer>
 </article>

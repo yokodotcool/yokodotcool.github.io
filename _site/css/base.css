@@ -7,9 +7,12 @@ a {
   text-decoration: none; }
   a:hover {
     border-bottom: 1px solid #ffe000; }
-  a .no-underline {
+  a.no-underline {
     text-decoration: none;
     border-bottom: none; }
+
+img {
+  max-width: 100%; }
 
 .bg-black {
   background-color: #222222; }
@@ -19,6 +22,9 @@ a {
 
 .text-white {
   color: #ffffff; }
+
+.size-xs {
+  width: 50px; }
 
 .size-sm {
   width: 100px; }
@@ -600,44 +606,44 @@ html, body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figu
 
 html {
   font-size: 100%;
-  font-family: "acumin-pro"; }
+  font-family: "acumin-pro", Helvetica, Arial, sans-serif; }
 
 .headline {
-  font-family: "acumin-pro";
+  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
   font-weight: 300;
   letter-spacing: .04em;
   line-height: 1.6em;
   font-size: 2rem; }
 
 .headline-smaller {
-  font-family: "acumin-pro";
+  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
   font-weight: 300;
   letter-spacing: .04em;
   line-height: 1.6em;
   font-size: 1.25rem; }
 
 .text {
-  font-family: "acumin-pro";
+  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
   font-weight: 400;
   letter-spacing: .02em;
   line-height: 1.6em;
   font-size: 1rem; }
 
 .text-small {
-  font-family: "acumin-pro";
+  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
   font-weight: 400;
   letter-spacing: .02em;
   line-height: 1.6em;
   font-size: .875rem; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "acumin-pro";
+  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
   font-weight: 300;
   letter-spacing: .04em;
   line-height: 1.6em; }
 
 p {
-  font-family: "acumin-pro";
+  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
   font-weight: 400;
   letter-spacing: .02em;
   line-height: 1.6em; }

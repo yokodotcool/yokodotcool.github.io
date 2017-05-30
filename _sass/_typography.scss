@@ -1,19 +1,21 @@
+$font-stack: "acumin-pro", Helvetica, Arial, sans-serif;
+
 html {
     font-size: 100%;
-    font-family: "acumin-pro";
+    font-family: $font-stack;
 }
 
 //  Mixins
 
 @mixin headlines {
-    font-family: "acumin-pro";
+    font-family: $font-stack;
     font-weight: 300;
     letter-spacing: .04em;
     line-height: 1.6em;
 }
 
 @mixin texts {
-    font-family: "acumin-pro";
+    font-family: $font-stack;
     font-weight: 400;
     letter-spacing: .02em;
     line-height: 1.6em;

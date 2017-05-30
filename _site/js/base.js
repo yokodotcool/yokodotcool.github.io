@@ -20,6 +20,6 @@ var pandaList = [
 
 function insertPanda() {
     var randomPanda = pandaList[Math.floor(Math.random() * pandaList.length)];
-    var pandaPath = "/assets/panda-" + randomPanda + ".png"; 
+    var pandaPath = "/assets/-site/panda-" + randomPanda + ".png"; 
     document.getElementById('header-panda').src = pandaPath; 
 }
