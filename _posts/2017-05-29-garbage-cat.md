@@ -12,4 +12,3 @@ layout: post
 		![Now the trash bag is a cat](/assets/2017-05-29-garbage-cat-02.jpg)
 	</div>
 </div>
->>>>>>> origin/master
