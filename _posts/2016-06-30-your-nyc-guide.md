@@ -1,6 +1,6 @@
 ---
 title: Yoko’s guide to NYC
-date: 2016-07-01 00:00:00
+date: 2016-06-30 20:00:00 -04:00
 permalink: "/your-nyc-guide"
 layout: post
 ---
