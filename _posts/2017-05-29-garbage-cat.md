@@ -1,18 +1,7 @@
 ---
-<<<<<<< HEAD
 title: Garbage cat
 layout: post
----
-
-![A photo of a trash bag](/assets/2017-05-29-garbage-cat-01.jpg)
-![Now the trash bag is a cat](/assets/2017-05-29-garbage-cat-02.jpg)
-=======
-title: Garbage Cat
 date: 2017-05-29 21:52:00 -04:00
-layout: post
-assets:
-- path: "/assets/2017-05-29-garbage-cat-01.jpg"
-- path: "/assets/2017-05-29-garbage-cat-02.jpg"
 ---
 
 <div class="cols">
