@@ -1,6 +1,6 @@
 ---
 title: Garbage Cat
-date: 2017-05-29 20:52:00 -05:00
+date: 2017-05-29 21:52:00 -04:00
 layout: post
 assets:
 - path: "/assets/2017-05-29-garbage-cat-01.jpg"
