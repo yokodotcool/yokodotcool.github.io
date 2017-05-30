@@ -5,8 +5,6 @@ permalink: "/your-nyc-guide"
 layout: post
 ---
 
-# So you want to visit New York City!
-
 Oh, hi! I heard you might be visiting New York City sometime soon. That’s great! I’m biased, but I think NYC is one the most amazing cities in the whole wide world, a cultural capital, and an essential visit to any traveler. You’ll find plenty to do here—so much in fact, that you’ll likely have to come back another time.
 
 # Big ol’ map

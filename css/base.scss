@@ -5,6 +5,9 @@
 
 @charset "utf-8";
 
+.dim {
+    opacity: .5;
+}
 
 .glow {
   filter: drop-shadow(0px 0px 30px rgba(255, 255, 255, 0.85));}
