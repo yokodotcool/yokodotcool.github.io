@@ -1,5 +1,5 @@
 ---
-title: Garbage Cat
+title: Garbage cat
 date: 2017-05-29 20:52:00 -05:00
 layout: post
 assets:
