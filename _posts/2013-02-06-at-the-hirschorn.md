@@ -1,8 +1,8 @@
 ---
 title: At the Hirschorn
-date: 2013-02-07 02:09:00 Z
-layout: post
+date: 2013-02-06 21:09:00 -05:00
 published: false
+layout: post
 ---
 
 I didn’t take many photos while at DC, but here are a couple of my favorites from our visit to the [Hirschorn Museum](http://hirschorn.si.edu):

@@ -1,6 +1,6 @@
 ---
 title: Austin murals bike tour
-date: 2014-07-07 04:20:00 Z
+date: 2014-07-07 00:20:00 -04:00
 layout: post
 ---
 
