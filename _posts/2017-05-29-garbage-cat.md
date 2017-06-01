@@ -1,7 +1,6 @@
 ---
 title: Garbage cat
 date: 2017-05-29 21:52:00 -04:00
-published: false
 tags:
 - project 48
 layout: post
