@@ -17,7 +17,7 @@ May 29 2017
 	</div>
 </div>
 
-May 31 2017
+June 1 2017
 
 <div class="cols">
 	<div class="col col-xs-12 col-sm-6">
