@@ -1,5 +1,5 @@
 ---
 title: People & Company branding
-date: 2017-06-04 23:30:00 -04:00
+date: 2016-12-06 23:30:00 -05:00
 ---
 
