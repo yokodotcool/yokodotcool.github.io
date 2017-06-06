@@ -7,28 +7,26 @@ layout: default
 
 
 <div class="cols">
-    <div class="col col-xs-11 col-md-9">
+    <div class="col col-xs-12 col-sm-9 col-md-6 mb-4">
         <h1 class="headline">Yoko Sakao Ohama is a multidisciplinary designer based in New York City.</h1>
     </div>
-    <div class="col col-xs-12 col-md-7">
+</div>
+<div class="cols">
+    <div class="col col-xs-12 col-sm-6 col-md-4 mb-4">
         <img src="/assets/2016-12-20-yoko-kci-jojo-60.jpg" />
         <p class="dim text-small">Photo by <a href="http://kaielmer.com">Kai Elmer Sotto</a>.</p>
     </div>
 </div>
 <div class="cols">
-    <div class="col col-xs-12 col-md-6">
-        <h3 class="headline">Fun facts about Yoko</h3>
+    <div class="col col-xs-12 col-sm-9 col-md-6">
+        <p>Fun facts about Yoko</p>
         <ul>
             <li>NYC native (Upper West Side)</li>
             <li>Likes pandas, also cats</li>
             <li>Inscrutably particular about sweet foods</li>
             <li>Awful at watching movies and TV</li>
             <li>Stopping wearing colors in January 2015</li>
-            <li>Friendly but not super social</li>
         </ul>
-    </div>
-    <div class="col col-xs-12 col-md-6">
-        <h3 class="headline">Contact</h3>
         <p>
             Hit me up: <a href="https://twitter.com/psyoko">@psyoko</a>
         </p>
