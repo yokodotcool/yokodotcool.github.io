@@ -5,7 +5,6 @@ category: nav
 layout: default
 ---
 
-
 <div class="cols">
     <div class="col col-xs-11 col-md-9">
         <h1 class="headline">Yoko Sakao Ohama is a multidisciplinary designer based in New York City.</h1>
