@@ -646,6 +646,9 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.6em;
   margin-bottom: .5rem; }
 
+ol, ul {
+  margin-left: 1rem; }
+
 p {
   font-family: "acumin-pro", Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -654,7 +657,8 @@ p {
   margin-bottom: .5rem; }
 
 .list-unstyled {
-  list-style-type: none; }
+  list-style-type: none;
+  margin-left: 0; }
 
 p:not(:last-child) {
   margin-bottom: .875rem; }
