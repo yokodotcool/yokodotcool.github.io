@@ -1,6 +1,6 @@
 ---
 title: Weekly doodles
-date: 2012-11-12 05:30:00 Z
+date: 2012-11-12 00:30:00 -05:00
 tags:
 - drawing
 ---

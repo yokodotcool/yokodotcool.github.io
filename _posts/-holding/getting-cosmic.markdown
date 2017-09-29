@@ -1,6 +1,6 @@
 ---
 title: Getting cosmic
-date: 2012-11-01 05:36:00 Z
+date: 2012-11-01 01:36:00 -04:00
 tags:
 - life
 ---

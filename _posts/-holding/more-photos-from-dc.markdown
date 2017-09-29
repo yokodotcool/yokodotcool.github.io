@@ -1,6 +1,6 @@
 ---
 title: More photos from DC
-date: 2013-02-16 06:09:00 Z
+date: 2013-02-16 01:09:00 -05:00
 tags:
 - photos
 - life

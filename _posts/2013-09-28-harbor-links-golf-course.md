@@ -1,6 +1,6 @@
 ---
 title: Harbor Links Golf Course
-date: 2013-09-28 05:09:00 Z
+date: 2013-09-28 01:09:00 -04:00
 layout: post
 ---
 

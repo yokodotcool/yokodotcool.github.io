@@ -1,6 +1,6 @@
 ---
 title: Behind the behind the scenes
-date: 2013-04-01 03:11:00 Z
+date: 2013-03-31 23:11:00 -04:00
 layout: post
 ---
 

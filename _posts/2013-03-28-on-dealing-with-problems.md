@@ -1,6 +1,6 @@
 ---
 title: On dealing with problems
-date: 2013-03-29 02:01:00 Z
+date: 2013-03-28 22:01:00 -04:00
 layout: post
 ---
 

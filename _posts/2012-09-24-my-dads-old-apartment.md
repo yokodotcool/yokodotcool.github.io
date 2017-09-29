@@ -1,6 +1,6 @@
 ---
 title: My dad’s old apartment
-date: 2012-09-24 12:01:00 Z
+date: 2012-09-24 08:01:00 -04:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Portfolio is up
-date: 2014-08-10 15:18:00 Z
+date: 2014-08-10 11:18:00 -04:00
 layout: post
 ---
 

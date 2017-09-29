@@ -1,6 +1,6 @@
 ---
 title: LIRR to Queens
-date: 2013-07-22 01:32:00 Z
+date: 2013-07-21 21:32:00 -04:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Today is my last day at Tattly.
-date: 2014-09-15 03:06:00 Z
+date: 2014-09-14 23:06:00 -04:00
 layout: post
 ---
 

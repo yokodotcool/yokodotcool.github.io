@@ -1,6 +1,6 @@
 ---
 title: At the same damn time
-date: 2013-08-01 04:00:00 Z
+date: 2013-08-01 00:00:00 -04:00
 layout: post
 ---
 

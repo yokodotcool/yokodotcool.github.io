@@ -1,6 +1,6 @@
 ---
 title: Recently read
-date: 2013-02-26 05:50:00 Z
+date: 2013-02-26 00:50:00 -05:00
 layout: post
 ---
 

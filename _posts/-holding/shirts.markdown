@@ -1,6 +1,6 @@
 ---
 title: Shirts!
-date: 2013-02-28 02:28:00 Z
+date: 2013-02-27 21:28:00 -05:00
 tags:
 - making
 ---

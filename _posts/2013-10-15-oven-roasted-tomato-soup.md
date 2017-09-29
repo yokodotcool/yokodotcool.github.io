@@ -1,6 +1,6 @@
 ---
 title: Oven-roasted tomato soup
-date: 2013-10-15 04:09:00 Z
+date: 2013-10-15 00:09:00 -04:00
 layout: post
 ---
 

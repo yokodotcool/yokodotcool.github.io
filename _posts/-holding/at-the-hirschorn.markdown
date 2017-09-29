@@ -1,6 +1,6 @@
 ---
 title: At the Hirschorn
-date: 2013-02-07 02:09:00 Z
+date: 2013-02-06 21:09:00 -05:00
 tags:
 - life
 - photos

@@ -1,6 +1,6 @@
 ---
 title: 'New Shirt: Don’t — with a —'
-date: 2013-03-19 00:04:00 Z
+date: 2013-03-18 20:04:00 -04:00
 tags:
 - making
 ---

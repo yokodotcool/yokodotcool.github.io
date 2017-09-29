@@ -1,6 +1,6 @@
 ---
 title: Sneak peek
-date: 2013-03-13 05:00:00 Z
+date: 2013-03-13 01:00:00 -04:00
 tags:
 - making
 ---

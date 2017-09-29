@@ -1,6 +1,6 @@
 ---
 title: Pandas doing stuff
-date: 2014-07-01 04:00:00 Z
+date: 2014-07-01 00:00:00 -04:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The four books I’m bringing on my move
-date: 2013-03-25 03:30:00 Z
+date: 2013-03-24 23:30:00 -04:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Fuck Yes oven-roasted chicken
-date: 2013-04-25 00:42:00 Z
+date: 2013-04-24 20:42:00 -04:00
 tags:
 - food
 ---

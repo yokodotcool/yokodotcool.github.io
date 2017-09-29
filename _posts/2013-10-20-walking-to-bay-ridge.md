@@ -1,6 +1,6 @@
 ---
 title: Walking to Bay Ridge
-date: 2013-10-21 00:40:00 Z
+date: 2013-10-20 20:40:00 -04:00
 layout: post
 ---
 

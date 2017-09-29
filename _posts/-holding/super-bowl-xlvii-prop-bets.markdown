@@ -1,6 +1,6 @@
 ---
 title: Super Bowl XLVII prop bets
-date: 2013-02-04 00:17:00 Z
+date: 2013-02-03 19:17:00 -05:00
 tags:
 - life
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hacking semantically-friendlier Symbolset icons using CSS
-date: 2013-10-19 00:30:00 Z
+date: 2013-10-18 20:30:00 -04:00
 layout: post
 ---
 

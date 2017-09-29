@@ -1,6 +1,6 @@
 ---
 title: Thinking with Type, again
-date: 2014-04-01 23:01:00 Z
+date: 2014-04-01 19:01:00 -04:00
 layout: post
 ---
 

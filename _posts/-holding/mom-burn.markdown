@@ -1,6 +1,6 @@
 ---
 title: Mom burn
-date: 2012-11-15 23:17:00 Z
+date: 2012-11-15 18:17:00 -05:00
 tags:
 - drawing
 ---

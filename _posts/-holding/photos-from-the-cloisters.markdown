@@ -1,6 +1,6 @@
 ---
 title: Photos from The Cloisters
-date: 2013-04-30 16:04:00 Z
+date: 2013-04-30 12:04:00 -04:00
 tags:
 - photos
 ---

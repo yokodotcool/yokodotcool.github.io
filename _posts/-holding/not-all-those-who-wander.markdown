@@ -1,6 +1,6 @@
 ---
 title: Not all those who wander
-date: 2013-02-16 05:31:00 Z
+date: 2013-02-16 00:31:00 -05:00
 tags:
 - making
 ---

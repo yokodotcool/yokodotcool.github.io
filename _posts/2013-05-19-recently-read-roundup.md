@@ -1,6 +1,6 @@
 ---
 title: Recently read roundup
-date: 2013-05-19 17:23:00 Z
+date: 2013-05-19 13:23:00 -04:00
 layout: post
 ---
 

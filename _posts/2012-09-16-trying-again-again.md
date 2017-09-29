@@ -1,6 +1,6 @@
 ---
 title: Trying again, again
-date: 2012-09-16 12:04:00 Z
+date: 2012-09-16 08:04:00 -04:00
 layout: post
 ---
 

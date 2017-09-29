@@ -1,6 +1,6 @@
 ---
 title: Lettering for One of Many
-date: 2014-08-21 12:47:00 Z
+date: 2014-08-21 08:47:00 -04:00
 layout: post
 ---
 

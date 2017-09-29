@@ -1,6 +1,6 @@
 ---
 title: Fun with gels
-date: 2012-10-12 12:30:00 Z
+date: 2012-10-12 08:30:00 -04:00
 tags:
 - photos
 ---

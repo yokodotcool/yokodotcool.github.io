@@ -1,6 +1,6 @@
 ---
 title: Corn chowder
-date: 2012-09-20 10:31:00 Z
+date: 2012-09-20 06:31:00 -04:00
 tags:
 - food
 ---

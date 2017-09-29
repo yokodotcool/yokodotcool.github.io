@@ -1,6 +1,6 @@
 ---
 title: 'Ongoing: At the Same Damn Time'
-date: 2013-04-26 09:05:00 Z
+date: 2013-04-26 05:05:00 -04:00
 tags:
 - making
 ---

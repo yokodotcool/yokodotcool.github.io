@@ -1,6 +1,6 @@
 ---
 title: On stocking up
-date: 2012-10-29 16:35:00 Z
+date: 2012-10-29 12:35:00 -04:00
 layout: post
 ---
 

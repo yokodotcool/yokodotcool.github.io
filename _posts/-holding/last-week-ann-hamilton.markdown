@@ -1,6 +1,6 @@
 ---
 title: 'Last week: Ann Hamilton'
-date: 2013-01-12 19:08:00 Z
+date: 2013-01-12 14:08:00 -05:00
 tags:
 - photos
 - life

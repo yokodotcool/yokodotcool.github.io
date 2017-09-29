@@ -1,6 +1,6 @@
 ---
 title: What it’s like to be my father’s daughter
-date: 2013-03-12 01:16:00 Z
+date: 2013-03-11 21:16:00 -04:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Illustration: The Monk, the Monkeys, and the Moo-moo Tree'
-date: 2014-08-08 04:02:00 Z
+date: 2014-08-08 00:02:00 -04:00
 layout: post
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: In which I wax un-poetic about a relatively insignificant part of a documentary
   about the President and his photographer
-date: 2012-11-11 16:44:00 Z
+date: 2012-11-11 11:44:00 -05:00
 tags:
 - rambling
 ---

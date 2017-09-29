@@ -1,6 +1,6 @@
 ---
 title: Don’t — with a —
-date: 2013-03-01 05:00:00 Z
+date: 2013-03-01 00:00:00 -05:00
 layout: post
 ---
 

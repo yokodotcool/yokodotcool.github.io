@@ -1,6 +1,6 @@
 ---
 title: 'Roux, or: I have no idea what I am doing'
-date: 2012-10-04 05:17:00 Z
+date: 2012-10-04 01:17:00 -04:00
 tags:
 - food
 ---

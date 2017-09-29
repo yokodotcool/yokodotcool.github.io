@@ -1,6 +1,6 @@
 ---
 title: CreativeMornings turns 5!
-date: 2013-10-27 19:09:00 Z
+date: 2013-10-27 15:09:00 -04:00
 assets:
 - path: "/uploads/6uwsbs1170.gif"
 - path: "/uploads/6uwsbs1215.gif"

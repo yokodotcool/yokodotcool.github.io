@@ -1,6 +1,6 @@
 ---
 title: CM Summit Nametags
-date: 2014-10-15 21:02:00 Z
+date: 2014-10-15 17:02:00 -04:00
 layout: post
 ---
 

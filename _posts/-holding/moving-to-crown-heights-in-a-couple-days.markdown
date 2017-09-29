@@ -1,6 +1,6 @@
 ---
 title: Moving to Crown Heights in a couple days
-date: 2013-03-31 06:34:00 Z
+date: 2013-03-31 02:34:00 -04:00
 tags:
 - life
 ---

@@ -1,6 +1,6 @@
 ---
 title: Some happy things of late
-date: 2012-11-20 02:37:00 Z
+date: 2012-11-19 21:37:00 -05:00
 tags:
 - life
 ---

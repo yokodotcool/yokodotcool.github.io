@@ -1,6 +1,6 @@
 ---
 title: My parents are extending their stay in Japan for a little while longer.
-date: 2012-10-21 04:23:00 Z
+date: 2012-10-21 00:23:00 -04:00
 tags:
 - life
 ---

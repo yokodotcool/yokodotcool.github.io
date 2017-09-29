@@ -1,6 +1,6 @@
 ---
 title: Weird ampersand
-date: 2013-03-22 13:40:00 Z
+date: 2013-03-22 09:40:00 -04:00
 tags:
 - making
 ---

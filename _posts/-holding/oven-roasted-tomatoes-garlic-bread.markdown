@@ -1,6 +1,6 @@
 ---
 title: Oven-roasted tomatoes garlic bread
-date: 2012-10-22 10:45:00 Z
+date: 2012-10-22 06:45:00 -04:00
 tags:
 - food
 ---

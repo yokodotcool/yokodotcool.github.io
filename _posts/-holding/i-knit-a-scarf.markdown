@@ -1,6 +1,6 @@
 ---
 title: I knit a scarf!
-date: 2013-01-02 03:50:00 Z
+date: 2013-01-01 22:50:00 -05:00
 tags:
 - making
 ---
