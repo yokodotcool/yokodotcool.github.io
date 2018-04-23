@@ -11,7 +11,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figu
 
 //  Grid stuff
 
-$number-of-columns: 12;
+$number-of-columns: 6;
 
 //  Offset by 1 * width of the column + 1 * margin
 
@@ -43,7 +43,7 @@ $number-of-columns: 12;
     }
 }
 
-.grid-720 {
+.grid {
     margin-left: auto;
     margin-right: auto;
     max-width: 720px;
