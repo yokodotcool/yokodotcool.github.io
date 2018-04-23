@@ -6,18 +6,18 @@ layout: default
 ---
 
 <div class="cols">
-    <div class="col col-xs-12 col-sm-9 col-md-6 mb-4">
+    <div class="col col-xs-12 mb-4">
         <h1 class="headline">Yoko Sakao Ohama is a multidisciplinary designer based in New York City.</h1>
     </div>
 </div>
 <div class="cols">
-    <div class="col col-xs-12 col-sm-6 col-md-4 mb-4">
+    <div class="col col-xs-12 mb-4">
         <img src="/assets/2016-12-20-yoko-kci-jojo-60.jpg" />
         <p class="dim text-small">Photo by <a href="http://kaielmer.com">Kai Elmer Sotto</a>.</p>
     </div>
 </div>
 <div class="cols">
-    <div class="col col-xs-12 col-sm-9 col-md-6">
+    <div class="col col-xs-12 ">
         <p>Fun facts about Yoko</p>
         <ul>
             <li>NYC native (Upper West Side)</li>

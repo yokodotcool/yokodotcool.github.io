@@ -3,16 +3,16 @@
 
     {% include head.html %}
 
-    <body class="site bg-grey-light">
-        <div class="bg-black site-content pb-6">
+    <body class="site bg-black">
+        <div class="bg-white site-content pb-6">
             {% if page.title == "Home" %}
                 {% include header-home.html %}
             {% else %}
                 {% include header-default.html %}
             {% endif %}
 
-            <div class="bg-black text-white mb-6">
-                <div class="grid-960">
+            <div class="bg-white text-black mb-6">
+                <div class="grid-720">
                     {{ content }}
                 </div>
             </div>

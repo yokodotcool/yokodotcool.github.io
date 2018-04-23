@@ -5,11 +5,11 @@
   filter: drop-shadow(0px 0px 30px rgba(255, 255, 255, 0.85)); }
 
 a {
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 2px solid #222222;
   color: inherit;
   text-decoration: none; }
   a:hover {
-    border-bottom: 1px solid #ffe000; }
+    border-bottom: 2px solid #ffe000; }
   a.no-underline {
     text-decoration: none;
     border-bottom: none; }
@@ -20,11 +20,17 @@ img {
 .bg-black {
   background-color: #222222; }
 
+.bg-white {
+  background-color: #ffffff; }
+
 .bg-grey-light {
   background-color: #cccccc; }
 
 .text-white {
   color: #ffffff; }
+
+.text-black {
+  color: #222222; }
 
 .size-xs {
   width: 50px; }
@@ -183,25 +189,25 @@ html, body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figu
 
   .col-lg-12 {
     width: 100%; } }
-.grid-960 {
+.grid-720 {
   margin-left: auto;
   margin-right: auto;
-  max-width: 960px;
-  padding-left: 20px;
-  padding-right: 20px;
+  max-width: 720px;
+  padding-left: 24px;
+  padding-right: 24px;
   width: 100%; }
 
 .cols {
   float: none;
-  margin-left: -10px;
-  margin-right: -10px;
+  margin-left: -12px;
+  margin-right: -12px;
   overflow: auto;
   position: relative; }
 
 .col {
   float: left;
-  padding-left: 10px;
-  padding-right: 10px; }
+  padding-left: 12px;
+  padding-right: 12px; }
 
 .site {
   display: flex;
@@ -609,49 +615,46 @@ html, body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figu
 
 html {
   font-size: 100%;
-  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
+  font-family: Osaka, sans-serif;
   font-weight: 300; }
 
 .headline {
-  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
-  font-weight: 200;
-  letter-spacing: .04em;
-  line-height: 1.35em;
+  font-family: Osaka, sans-serif;
+  letter-spacing: .0em;
+  line-height: 1.5em;
   font-size: 1.8rem; }
 
 .headline-smaller {
-  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
-  font-weight: 200;
-  letter-spacing: .04em;
-  line-height: 1.35em;
+  font-family: Osaka, sans-serif;
+  letter-spacing: .0em;
+  line-height: 1.5em;
   font-size: 1.25rem; }
 
 .text {
-  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
+  font-family: Osaka, sans-serif;
   letter-spacing: .03em;
-  line-height: 1.6em;
-  font-size: 1rem; }
+  line-height: 1.8em;
+  font-size: 1.125rem; }
 
 .text-small {
-  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
+  font-family: Osaka, sans-serif;
   letter-spacing: .03em;
-  line-height: 1.6em;
+  line-height: 1.8em;
   font-size: .875rem; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
-  font-weight: 200;
-  letter-spacing: .04em;
-  line-height: 1.35em;
+  font-family: Osaka, sans-serif;
+  letter-spacing: .0em;
+  line-height: 1.5em;
   margin-bottom: .5rem; }
 
 ol, ul {
   margin-left: 1rem; }
 
 ol, ul, p {
-  font-family: "acumin-pro", Helvetica, Arial, sans-serif;
+  font-family: Osaka, sans-serif;
   letter-spacing: .03em;
-  line-height: 1.6em;
+  line-height: 1.8em;
   margin-bottom: .5rem; }
 
 .list-unstyled {

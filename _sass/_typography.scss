@@ -1,4 +1,4 @@
-$font-stack: "acumin-pro", Helvetica, Arial, sans-serif;
+$font-stack: Osaka, sans-serif;
 
 html {
     font-size: 100%;
@@ -10,15 +10,14 @@ html {
 
 @mixin headlines {
     font-family: $font-stack;
-    font-weight: 200;
-    letter-spacing: .04em;
-    line-height: 1.35em;
+    letter-spacing: .0em;
+    line-height: 1.5em;
 }
 
 @mixin texts {
     font-family: $font-stack;
     letter-spacing: .03em;
-    line-height: 1.6em;
+    line-height: 1.8em;
 }
 
 //  Fonts
@@ -35,7 +34,7 @@ html {
 
 .text {
     @include texts;
-    font-size: 1rem;
+    font-size: 1.125rem;
 }
 
 .text-small {
