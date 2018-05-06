@@ -1,0 +1,10 @@
+#content {
+
+    // Styles for image captions
+    img + em {
+        color: $grey;
+        font-size: 75%;
+        font-style: normal;
+    }    
+}
+
