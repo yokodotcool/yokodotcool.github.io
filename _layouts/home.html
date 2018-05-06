@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+    <body class="site bg-black">
+        <div class="bg-white site-content pb-6">
+            {% if page.title == "Home" %}
+                {% include header-home.html %}
+            {% else %}
+                {% include header-default.html %}
+            {% endif %}
+
+            <div class="bg-white text-black mb-6">
+                <div class="grid">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>
