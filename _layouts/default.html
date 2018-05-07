@@ -3,21 +3,29 @@
 
     {% include head.html %}
 
-    <body class="site bg-black">
-        <div class="bg-white site-content pb-6">
-            {% if page.title == "Home" %}
-                {% include header-home.html %}
-            {% else %}
-                {% include header-default.html %}
-            {% endif %}
+    <body class="site">
+        <div class="site-content">
+            <a href="/" class="mr-1">Yoko.is</a> / 
 
-            <div class="bg-white text-black mb-6">
-                <div class="grid">
-                    {{ content }}
-                </div>
+            {% for page in site.pages %}
+                {% if page.category=="nav" %}
+                    <a href="{{ page.url }}" class="ml-1">{{ page.title }}</a>
+                {% endif %}
+            {% endfor %}
+
+            <div id="content">
+                {{ content }}
             </div>
         </div>
 
-        {% include footer.html %}
+        <footer class="site-footer">
+            <p>
+                Yoko Sakao Ohama (she/her) codes this site using <a href="https://jekyllrb.com">Jekyll</a> and runs it on <a href="https://github.com/psyoko/psyoko.github.io">Github Pages</a>.
+            </p>
+            <p>
+                <a href="https://twitter.com/yokogoesplorin">@yokogoesplorin</a> (Neat stuff I find around the webs)<br />
+                <a href="https://twitter.com/psyoko_ebooks">@psyoko_ebooks</a> (My bot account, lol)
+            </p>
+        </footer>
     </body>
 </html>
