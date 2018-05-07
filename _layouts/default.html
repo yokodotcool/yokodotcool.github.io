@@ -3,23 +3,26 @@
 
     {% include head.html %}
 
-    <body class="site bg-black">
-        <div class="bg-white site-content pb-6">
-            {% if page.title == "Home" %}
-                {% include header-home.html %}
-            {% else %}
-                {% include header-default.html %}
-            {% endif %}
+    <body class="site">
+        <div class="site-content">
+            <a href="/" class="no-underline">Yoko.is</a><br />
+            
+            {% for page in site.pages %}
+                {% if page.category=="nav" %}
+                    <a href="{{ page.url }}" class="dim mr-1 no-underline">{{ page.title }}</a>
+                {% endif %}
+            {% endfor %}
 
-            <div class="bg-white text-black mb-6">
-                <div class="grid">
-                    <div id="content">
-                        {{ content }}
+            <div id="content">
+                {{ content }}
+            </div>
+
+            <footer class="site-footer">
+                <div class="bg-black py-4">
+                    <div class="grid">
+                        <p class="text-small text-white">Website designed and built using <a href="https://jekyllrb.com">Jekyll</a>.</p>
                     </div>
                 </div>
-            </div>
-        </div>
-
-        {% include footer.html %}
-    </body>
+            </footer>
+        </body>
 </html>
