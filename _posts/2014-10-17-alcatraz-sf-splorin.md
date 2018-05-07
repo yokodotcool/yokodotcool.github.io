@@ -14,8 +14,8 @@ assets:
 layout: post
 ---
 
-![Photo of my feet on the floor of Alcatraz, the window pane casting a shadow](/assets/2014-10-17-alcatraz-feet.jpg)
-_Went to Alcatraz, y’all!_
+**![Photo of my feet on the floor of Alcatraz, the window pane casting a shadow](/assets/2014-10-17-alcatraz-feet.jpg)
+_Went to Alcatraz, y’all!_**
 
 I recently returned from an epic 2-week vacation, in which I walked all over San Francisco and then met up with Kevin for [a wedding](http://craigandkaryn.com) in Seattle. I had just watched [The Rock](http://www.imdb.com/title/tt0117500/), Kevin’s favorite action movie of all time, so I was pumped to visit Alcatraz while I was in SF and was doubly excited to learn that Ai Weiwei had just opened an on-site exhibit there.
 
@@ -27,8 +27,8 @@ _Some electric box I found._
 
 Aside from the fantastic immersive audio tour, I was struck by how beautiful the light was inside the buildings at Alcatraz. Maybe I went at the perfect time on the perfect day, but the light that was coming in through the latticed windows was just awesome.  
 
-![Big empty room with light coming in from the window. Walls and floors are broken and peeling](/assets/2014-10-17-alcatraz-ward.jpg)
-_Hospital ward. Just crazy._
+**![Big empty room with light coming in from the window. Walls and floors are broken and peeling](/assets/2014-10-17-alcatraz-ward.jpg)
+_Hospital ward. Just crazy._**
 
 ![A sink in the mess hall.](/assets/2014-10-17-alcatraz-sink.jpg)
 _A sink in the mess hall._
