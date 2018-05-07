@@ -5,3 +5,4 @@ Wow everyone can read this and that’s cool ¯\\\_(ツ)\_/¯
 ### Todos lol
 - Better treatments for images
 - Better typescale for post content
+- Add “ongoing” section to Archive page
