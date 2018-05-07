@@ -5,11 +5,24 @@
 
     <body class="site bg-black">
         <div class="bg-white site-content pb-6">
-            {% if page.title == "Home" %}
-                {% include header-home.html %}
-            {% else %}
-                {% include header-default.html %}
-            {% endif %}
+             <!-- Nav Idk -->
+            <div class="grid my-4">
+                <div class="cols">
+                    <div class="col col-xs-6 text-black">
+                        <a href="/" class="no-underline">Yoko.is</a><br />
+                        {% comment %}{% include header-nav.html %}{% endcomment %}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Random panda -->
+            <div class="grid">
+                <img id="header-panda" class="glow size-sm nml-5" alt="Random panda drawing"/>
+            </div>
+
+            <script type="text/javascript">
+            window.onload(insertPanda()); 
+            </script>
 
             <div class="bg-white text-black mb-6">
                 <div class="grid">
@@ -18,6 +31,12 @@
             </div>
         </div>
 
-        {% include footer.html %}
+        <footer class="site-footer">
+            <div class="bg-black py-4">
+                <div class="grid">
+                    <p class="text-small text-white">Website designed and built using <a href="https://jekyllrb.com">Jekyll</a>.</p>
+                </div>
+            </div>
+        </footer>
     </body>
 </html>
