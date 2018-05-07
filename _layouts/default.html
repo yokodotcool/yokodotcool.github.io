@@ -5,24 +5,21 @@
 
     <body class="site">
         <div class="site-content">
-            <a href="/" class="no-underline">Yoko.is</a><br />
-            
+            <a href="/">Yoko.is</a><br />
+
             {% for page in site.pages %}
                 {% if page.category=="nav" %}
-                    <a href="{{ page.url }}" class="dim mr-1 no-underline">{{ page.title }}</a>
+                    <a href="{{ page.url }}">{{ page.title }}</a>
                 {% endif %}
             {% endfor %}
 
             <div id="content">
                 {{ content }}
             </div>
+        </div>
 
-            <footer class="site-footer">
-                <div class="bg-black py-4">
-                    <div class="grid">
-                        <p class="text-small text-white">Website designed and built using <a href="https://jekyllrb.com">Jekyll</a>.</p>
-                    </div>
-                </div>
-            </footer>
-        </body>
+        <footer class="site-footer">
+            <p>Website designed and built using <a href="https://jekyllrb.com">Jekyll</a>.</p>
+        </footer>
+    </body>
 </html>
