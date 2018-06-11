@@ -1,11 +1,45 @@
-//  Flexbox lol
+//  Declares the width of the content
 
-.site {
+@mixin site-content-width {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 720px;
+
+}
+
+//  Nav styles
+
+.nav-content {
+    @include site-content-width;
+}
+
+//  Main styles
+
+.main-content {
+    @include site-content-width;
+}
+
+//  Footer styles
+
+footer {
+    background-color: #f0f0f0;
+}
+
+.footer-content {
+    @include site-content-width;
+}
+
+// Anchors footer to the bottom using flexbox
+
+.site-container {
+
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+
 }
 
 .site-content {
     flex: 1;
 }
+
