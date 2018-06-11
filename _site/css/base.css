@@ -606,20 +606,30 @@ p:not(:last-child) {
   font-size: 75%;
   font-style: normal; }
 
-nav {
+.site-nav {
+  padding-top: 1em;
+  padding-bottom: 1em; }
+
+.site-nav-content {
   margin-left: auto;
   margin-right: auto;
   max-width: 720px; }
 
-main {
+.site-main {
+  padding-top: 3em;
+  padding-bottom: 3em; }
+
+.site-main-content {
   margin-left: auto;
   margin-right: auto;
   max-width: 720px; }
 
-footer {
-  background-color: #f0f0f0; }
+.site-footer {
+  background-color: #f0f0f0;
+  padding-top: 1em;
+  padding-bottom: 1em; }
 
-.footer-content {
+.site-footer-content {
   margin-left: auto;
   margin-right: auto;
   max-width: 720px; }

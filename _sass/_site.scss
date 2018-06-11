@@ -9,34 +9,44 @@
 
 //  Nav styles
 
-.nav-content {
+.site-nav {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.site-nav-content {
     @include site-content-width;
 }
 
 //  Main styles
 
-.main-content {
+.site-main {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.site-main-content {
     @include site-content-width;
 }
 
 //  Footer styles
 
-footer {
+.site-footer {
     background-color: #f0f0f0;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
-.footer-content {
+.site-footer-content {
     @include site-content-width;
 }
 
 // Anchors footer to the bottom using flexbox
 
 .site-container {
-
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-
 }
 
 .site-content {
