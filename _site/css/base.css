@@ -613,7 +613,9 @@ p:not(:last-child) {
 .site-nav-content {
   margin-left: auto;
   margin-right: auto;
-  max-width: 720px; }
+  max-width: 740px;
+  padding-left: 20px;
+  padding-right: 20px; }
 
 .site-main {
   padding-top: 3em;
@@ -622,7 +624,9 @@ p:not(:last-child) {
 .site-main-content {
   margin-left: auto;
   margin-right: auto;
-  max-width: 720px; }
+  max-width: 740px;
+  padding-left: 20px;
+  padding-right: 20px; }
 
 .site-footer {
   background-color: #f0f0f0;
@@ -632,7 +636,9 @@ p:not(:last-child) {
 .site-footer-content {
   margin-left: auto;
   margin-right: auto;
-  max-width: 720px; }
+  max-width: 740px;
+  padding-left: 20px;
+  padding-right: 20px; }
 
 .site-container {
   display: flex;
