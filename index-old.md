@@ -3,7 +3,7 @@ title: Home
 permalink: "/index-old"
 layout: home
 ---
-
+<!-- 2018 June 11 — This is no longer being used -->
 <div class="cols">
     <div class="col col-xs-12">
         <h1 class="headline mb-2">Hay! My name is Yoko.</h1>
