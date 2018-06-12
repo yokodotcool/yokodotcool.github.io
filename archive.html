@@ -1,13 +1,25 @@
 ---
 title: Archive
 permalink: "/archive"
-layout: page
+layout: default
 ---
 
-<p class="text-small dim">
-    Items are listed by date created, not necessarily date updated.
-</p>
+<!-- 
+    Assign two groups: ongoing and everything else
+    Assign all posts to one of the two groups
+    Output posts from first group
+    Output posts from second group
+-->
 
+<h2>All posts</h2>
+
+<ul>
+{% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<!--
 {% for post in site.posts %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
@@ -28,3 +40,4 @@ layout: page
     {% endif %}
     {% endif %}
 {% endfor %}
+-->
