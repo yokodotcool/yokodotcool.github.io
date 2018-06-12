@@ -34,7 +34,7 @@
 //  Footer styles
 
 .site-footer {
-    background-color: #f0f0f0;
+    background-color: $grey-lightest;
     padding-top: 1em;
     padding-bottom: 1em;
 }
@@ -46,12 +46,14 @@
 // Anchors footer to the bottom using flexbox
 
 .site-container {
+    background-color: $grey-lightest;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
 
 .site-content {
+    background-color: $white;
     flex: 1;
 }
 

@@ -641,9 +641,11 @@ p:not(:last-child) {
   padding-right: 20px; }
 
 .site-container {
+  background-color: #f0f0f0;
   display: flex;
   flex-direction: column;
   min-height: 100vh; }
 
 .site-content {
+  background-color: #ffffff;
   flex: 1; }
