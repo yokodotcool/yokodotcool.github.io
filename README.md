@@ -7,7 +7,6 @@ Wow everyone can read this and that’s cool ¯\\\_(ツ)\_/¯
 - Better typescale for post content
 - Add “ongoing” section to Archive page, also maybe a “featured” tag too (use `categories` not `category`)
 - Might be nice to have site snapshots in a folder for posterity
-- Add `_site` to `.gitignore`
 - Remove extraneous collections in `config.yml`
 
 ### Questions
