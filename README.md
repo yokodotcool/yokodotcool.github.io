@@ -9,5 +9,4 @@ Wow everyone can read this and that’s cool ¯\\\_(ツ)\_/¯
 - You actually don’t have any content in your posts
 
 ### Questions
-- Is there a way to list all of the scoped variables on a given page?
 - `id`s instead of `class`es for site layout stuff?
