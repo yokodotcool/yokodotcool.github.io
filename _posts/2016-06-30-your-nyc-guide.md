@@ -2,7 +2,7 @@
 title: Yoko’s guide to NYC
 date: 2016-06-30 20:00:00 -04:00
 permalink: "/your-nyc-guide"
-tags: ongoing
+categories: ongoing featured
 layout: post
 ---
 
