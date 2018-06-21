@@ -4,41 +4,23 @@ permalink: "/archive"
 layout: default
 ---
 
-<!-- 
-Two for loops:
-Show posts with category featured
-Show posts with not category featured
-
-Tag ongoing posts
--->
-
-<h2>All posts</h2>
+<h2>Featured stuff</h2>
 
 <ul>
-{% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
+    {% for post in site.categories.featured %}
+        {% if post.url %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
 </ul>
 
-<!--
-{% for post in site.posts %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
-    {% if forloop.first %} // runs only the first time
-<h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-<ul class="list-unstyled mb-2">
-    {% endif %}
-    <li><span class="dim">{{ post.date | date: "%b %-d" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% if forloop.last %}
-</ul>
-    {% else %}
-    {% if this_year != next_year %}
-</ul>
+<h2>Everything else</h2>
 
-<h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-<ul class="list-unstyled mb-2">
-    {% endif %}
-    {% endif %}
-{% endfor %}
--->
+<ul>
+    {% for post in site.posts %}
+        {% unless post.categories contains 'featured' %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endunless %}
+    {% endfor %}
+</ul>
