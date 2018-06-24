@@ -1,7 +1,7 @@
 ---
 title: Garbage cats
 date: 2017-05-29 21:52:00 -04:00
-categories: featured ongoing
+categories: featured
 layout: post
 ---
 
