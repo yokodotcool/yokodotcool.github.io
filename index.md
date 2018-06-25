@@ -5,7 +5,7 @@ layout: default
 ---
 
 <!-- Random panda -->
-<img id="header-panda" class="glow size-sm nmt-6 nml-5" alt="Random panda drawing"/>
+<img id="header-panda" class="glow size-sm nmt-6 nml-5 nmb-6" alt="Random panda drawing"/>
 
 <script type="text/javascript">
 window.onload(insertPanda()); 
