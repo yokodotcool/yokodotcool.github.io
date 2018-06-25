@@ -1,12 +1,12 @@
 ---
-title: Archive
+title: Site archive
 permalink: "/archive"
 layout: default
 ---
 
 <h2>Featured stuff</h2>
 
-<ul>
+<ul class="list-unstyled">
     {% for post in site.posts %}
         {% if post.categories contains 'featured' %}
             <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.categories contains 'ongoing' %} <span class="badge">ongoing</span>{% endif %}</li>
@@ -17,11 +17,11 @@ layout: default
 
 <h2>Everything else</h2>
 
-<p>
+<p class="text-small">
     A biggo list of mostly old, probably broken, likely embarrassing stuff. There’s more that’s slowly being added back from various sources for posterity/to keep me humble.
 </p>
 
-<ul>
+<ul class="list-unstyled">
     {% for post in site.posts %}
         {% unless post.categories contains 'featured' %}
             <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.categories contains 'ongoing' %} <span class="badge">ongoing</span>{% endif %}</li>
