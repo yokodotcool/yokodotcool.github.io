@@ -8,7 +8,7 @@ layout: default
 <img id="header-panda" class="glow size-sm nmt-6 nml-5 nmb-6" alt="Random panda drawing"/>
 
 <script type="text/javascript">
-window.onload(insertPanda()); 
+insertPanda(); 
 </script>
 
 <h1>Hay! My name is Yoko.</h1>
