@@ -12,7 +12,7 @@ insertPanda();
 </script>
 
 **![A photo of me eating pizza in Bensonhurst](/assets/2018-05-05-yoko.jpg)
-_Eating pizza in Bensonhurst. Photo by [Kevin](https://kiwimonk.com)._**
+_Eating pizza in Bensonhurst. Photo by [Kevin](http://kiwimonk.com)._**
 
 ## Hay! My name is Yoko.
 
