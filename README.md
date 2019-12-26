@@ -2,9 +2,14 @@
 
 Wow everyone can read this and that’s cool ¯\\\_(ツ)\_/¯
 
-### Todos lol
-- Ugh `p`s look weird in mobile ya dumdum
-- You actually don’t have any content in your posts
+## Wishlist
+- Floating animation for 404 laptop cat
+- Baseline alignment for the header stuff pls
+- Cool hover effects for links
 
-### Questions
-- `id`s instead of `class`es for site layout stuff?
+## Archive post candidates
+- P&Co branding
+- Edcamp 
+- Etsy DFH
+- SWAYF
+- WAWD

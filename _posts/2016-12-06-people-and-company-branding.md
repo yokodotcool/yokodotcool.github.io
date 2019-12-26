@@ -1,6 +1,7 @@
 ---
 title: People & Company branding
-date: 2016-12-06 23:30:00 -05:00
-categories: featured
+date: 2016-12-06
+tags: featured
+last_updated: 2016-12-30
 ---
 

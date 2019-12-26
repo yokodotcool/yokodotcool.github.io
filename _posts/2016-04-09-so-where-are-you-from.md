@@ -1,13 +1,12 @@
 ---
 title: So Where Are You From?
 date: 2016-04-09 00:00:00 -04:00
-categories: ongoing featured
-layout: post
+tags: ongoing featured
 ---
 
 
 > My friend and I were playing a game where we guess what you are.  
-_Yeah, that’s an actual pickup line Kate and I got while we were waiting to meet a friend celebrating their birthday at some bro-y rooftop bar._
+_An actual pickup line Kate and I got while we were waiting to meet a friend celebrating their birthday at some bro-y rooftop bar._
 
 [So Where Are You From?](https://swayfpodcast.com) Is a podcast about being Asian co-hosted by me and my good friend [Kate](https://katematsumoto.com). It’s a conversation-format podcast where we check in on each other, discuss recent events, and invite guests to talk about their work and their lives. 
 

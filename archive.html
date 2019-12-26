@@ -1,30 +1,61 @@
 ---
 title: Site archive
-permalink: "/archive"
-layout: default
 ---
 
+<!--
 <h2>Featured stuff</h2>
 
-<ul class="list-unstyled">
+ <ul>
     {% for post in site.posts %}
-        {% if post.categories contains 'featured' %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.categories contains 'ongoing' %} <span class="badge">ongoing</span>{% endif %}</li>
+        {% if post.tags contains 'featured' %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains 'ongoing' %} <span class="badge">ongoing</span>{% endif %}</li>
         {% endif %}
     {% endfor %}
 </ul>
 
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
-<h2>Everything else</h2>
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %} -->
 
-<p class="text-small">
-    A biggo list of mostly old, probably broken, likely embarrassing stuff. There’s more that’s slowly being added back from various sources for posterity/to keep me humble.
+<p>
+    A living list of all of the content I’ve ever put on a personal website, or wanted to put on a personal website. Much of it is old, empty, broken, embarrassing stuff, but hopefully some of it is new! More being added as I go through content archives of my old sites.
 </p>
 
-<ul class="list-unstyled">
+<ul>
     {% for post in site.posts %}
-        {% unless post.categories contains 'featured' %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.categories contains 'ongoing' %} <span class="badge">ongoing</span>{% endif %}</li>
-        {% endunless %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+
+            {% assign last_updated_epoch = post.last_updated | date: "%s" %}
+            {% assign month_ago_epoch = "now" | date: "%s" | minus: 2592000 | date: "%s" %}
+            {% assign post_date_string = post.date | date: "%s" %}
+
+            {% if month_ago_epoch < post_date_string %}
+                <span class="badge">new</span>
+            {% endif %}
+
+            {% if month_ago_epoch < last_updated_epoch %}
+                <span class="badge">recently updated</span>
+            {% endif %}
+
+            {% if post.tags contains 'ongoing' %}
+                <span class="badge">ongoing</span>
+            {% endif %}
+
+        </li>
     {% endfor %}
 </ul>

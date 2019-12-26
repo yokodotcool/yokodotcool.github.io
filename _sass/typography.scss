@@ -1,0 +1,39 @@
+@import 'variables';
+
+// General typography things
+// Probably won’t change even if I redesign the site
+
+h1, h2, h3, h4, h5, h6, p, ol, ul {
+    color: $fg-dark-gray;
+    font-family: $base-font;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: $line-height-tight;
+}
+
+p, ol, ul {
+    font-size: $text-size-01;
+    line-height: $line-height-regular;
+
+    > li:not(:last-child) {
+        margin-bottom: $line-height-regular / 4;
+    }
+
+}
+
+code, pre {
+    font-family: $mono-font;
+    line-height: $line-height-tight;
+}
+
+figcaption {
+    color: $fg-light-gray;
+    font-family: $base-font;
+    font-size: $text-size-00;
+}
+
+small {
+    font-size: $text-size-00;
+    line-height: $line-height-tight;
+}

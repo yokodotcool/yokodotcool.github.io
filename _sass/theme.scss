@@ -1,0 +1,114 @@
+@import "variables";
+
+// Theme styles
+//
+//
+
+.header-panda img { width: 72px; }
+
+.list-inline {
+    padding: 0;
+    
+    li { display: inline; }
+    li+li:before { content: " • ";}
+}
+
+body > footer { background-color: $bg-light-gray; }
+
+// Theme styles - Specific to <main> content
+//
+//
+
+main {
+    img { 
+        border: 1px solid $bg-light-gray; 
+        max-width: 100%; 
+    }
+
+    p, ol, ul {
+        max-width: 600px;
+    }
+
+    .badge {
+        background-color: $bg-light-gray; 
+        border: 1px solid $bg-gray;
+        border-radius: 3px;
+        font-size: $text-size-00;
+        padding: 0 4px;
+    }
+
+    .borderless {
+        border: 0;
+    }
+}
+
+// Theme typography styles
+// Use sparingly, especially in posts
+//
+
+.text-body-small { font-size: $text-size-00; }
+.text-body-base { font-size: $text-size-01; }
+.text-body-larger { font-size: $text-size-02; }
+.text-body-largest { font-size: $text-size-03; }
+.text-full-width { max-width: 100%; }
+
+// CSS grid layout magic
+//
+//
+
+.header-panda,
+.header-nav,
+.main-content,
+.footer-content {
+    padding: 18px;
+}
+
+.header-panda { grid-area: header-panda; }
+.header-nav { grid-area: header-nav; text-align: right; }
+.main-content { grid-area: main-content; }
+.footer { grid-area: footer; }
+
+.content-wrapper {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: min-content auto min-content;
+  grid-template-areas:
+    "header-panda header-nav"
+    "main-content main-content"
+    "footer footer"
+}
+
+@media all and (min-width: 800px) {
+  .content-wrapper {
+    grid-template-columns: 1fr 2fr 2fr 1fr;
+    grid-template-areas:
+      "header-panda header-panda header-nav header-nav"
+      ". main-content main-content ."
+      "footer footer footer footer"
+    }
+  
+  .footer-content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 66.67%; // Combined width of the two middle columns
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .content-wrapper {
+    grid-template-columns: auto 200px 400px 400px 200px auto;
+    grid-template-areas:
+      ". header-panda main-content main-content header-nav ."
+      ". . main-content main-content . ."
+      "footer footer footer footer footer footer"
+  }
+
+  main header {
+    margin-bottom: 60px;
+  }
+
+  .footer-content {
+    width: 800px; // Combined width of the two middle columns
+  }
+}
