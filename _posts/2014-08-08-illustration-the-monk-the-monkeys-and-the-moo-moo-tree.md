@@ -1,5 +1,5 @@
 ---
-title: Illustration: The Monk, the Monkeys, and the Moo-moo Tree
+title: Illustration — The Monk, the Monkeys, and the Moo-moo Tree
 ---
 
 ![How to draw a tree? I have no idea.](/assets/images/2014-08-08-The-Monk,-The-Monkeys,-and-the-Moo-moo-Tree.jpg) 
