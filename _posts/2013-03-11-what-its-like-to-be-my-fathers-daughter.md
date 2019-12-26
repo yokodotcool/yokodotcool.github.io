@@ -1,7 +1,5 @@
 ---
 title: What it’s like to be my father’s daughter
-date: 2013-03-11 21:16:00 -04:00
-layout: post
 ---
 
 I have a lot of do — I’m moving at a snail’s pace behind a deadline but eff it. We’re going to get personal up in this.

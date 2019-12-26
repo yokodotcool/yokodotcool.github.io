@@ -1,7 +1,5 @@
 ---
 title: Behind the behind the scenes
-date: 2013-03-31 23:11:00 -04:00
-layout: post
 ---
 
 > They’re all hands that guide the stick that draws the line in the sand.

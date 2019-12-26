@@ -1,7 +1,5 @@
 ---
 title: Recently read
-date: 2013-01-27 03:05:00 -05:00
-layout: post
 ---
 
 [Storytellers](http://www.outlookindia.com/article.aspx?283295)<br />

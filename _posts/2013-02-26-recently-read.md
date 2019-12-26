@@ -1,7 +1,6 @@
 ---
 title: Recently read
-date: 2013-02-26 00:50:00 -05:00
-layout: post
+date: 2013-02-26
 ---
 
 [The Pac-Man Dossier](http://home.comcast.net/~jpittman2/pacman/pacmandossier.html)  

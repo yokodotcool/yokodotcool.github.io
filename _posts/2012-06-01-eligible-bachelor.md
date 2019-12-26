@@ -1,10 +1,8 @@
 ---
 title: Eligible bachelor
-date: 2012-06-01 00:00:00 -04:00
-layout: post
 ---
 
-**![Eligible bachelor million dollar boat](/assets/2012-06-01-eligible_bachelor-1200x1000.jpg)**
+**![Eligible bachelor million dollar boat](/assets/images/2012-06-01-eligible_bachelor-1200x1000.jpg)**
 
 Based on this [dope song](https://www.youtube.com/watch?v=GtUVQei3nX4) by Snoop Dogg and Pharrell. I made it into a T shirt! And then I bought it in black and yellow!
 

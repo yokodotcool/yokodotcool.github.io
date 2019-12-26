@@ -1,7 +1,5 @@
 ---
 title: My dad’s old apartment
-date: 2012-09-24 08:01:00 -04:00
-layout: post
 ---
 
 You'd probably never guess because his English is not so great, but my dad has lived here for quite some time. This weekend, he told me about a different apartment in the UWS that he used to live in, in the 60's. He said lived in a tiny, tiny one bedroom behind Lincoln Center for *$36.40/month*. 

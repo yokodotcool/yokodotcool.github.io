@@ -1,7 +1,5 @@
 ---
 title: Recently read
-date: 2013-03-26 17:10:00 -04:00
-layout: post
 ---
 
 [The Lonely Polygamist](http://www.amazon.com/gp/product/B003KVLTJM/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003KVLTJM&linkCode=as2&tag=yokois-20)  

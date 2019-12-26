@@ -1,7 +1,5 @@
 ---
 title: Recently read
-date: 2013-01-16 01:14:00 -05:00
-layout: post
 ---
 
 [A Ring of One’s Own](http://www.newyorker.com/reporting/2012/05/07/120507fa_fact_levy?printable=true)<br />

@@ -1,7 +1,5 @@
 ---
 title: Recently read
-date: 2013-04-07 17:04:00 -04:00
-layout: post
 ---
 
 [Bossypants](http://www.amazon.com/gp/product/B0047Y0FGY/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0047Y0FGY&linkCode=as2&tag=yokois-20)  

@@ -1,7 +1,5 @@
 ---
 title: The four books I’m bringing on my move
-date: 2013-03-24 23:30:00 -04:00
-layout: post
 ---
 
 I actually thought about not bringing any books with me to Brooklyn. I have a Kindle and I know that books on any shelf of mine would just gather dust. But I figured my apartment could use some … nice-looking, not purely utilitarian stuff. Also I gave into the vanity of having books for show. I know. Who am I, even? 

@@ -1,7 +1,5 @@
 ---
 title: Recently read
-date: 2013-01-03 23:44:00 -05:00
-layout: post
 ---
 
 [John Quijada and Ithkuil, the Language He Invented](http://www.newyorker.com/reporting/2012/12/24/121224fa_fact_foer)<br />
