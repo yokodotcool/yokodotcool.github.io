@@ -1,48 +1,46 @@
 ---
 title: Austin murals bike tour
-date: 2014-07-07 00:20:00 -04:00
-layout: post
 ---
 
 Kevin and I got back from a wedding + vacation in Austin a few days ago, and one of the biggest highlights of the trip for me was renting bikes. While we were there, we heard several recommendations to check out the murals around town, so on our last day, we charted out a map and hit them up. 
 
-**![Greetings from Austin](/assets/2014-07-07-austin-greetings_from_austin.jpg)**
+![Greetings from Austin](/assets/images/2014-07-07-austin-greetings_from_austin.jpg)
 
 Instead of getting photos of us taken in front of the murals, we did this adorable thing where we put our bikes in front of them instead. Barf!
 
-![Deer brain?!](/assets/2014-07-07-austin-book_people_deer.jpg)
+![Deer brain?!](/assets/images/2014-07-07-austin-book_people_deer.jpg)
 
 This wasn’t on our initial list of walls to check out, but we couldn’t NOT stop as we were riding by. This wall was outside a bookstore; I like to think that it symbolizes knowledge profilerating inside an innocent mind.
 
-![I love you so much](/assets/2014-07-07-austin-i_love_you_so_much.jpg) 
+![I love you so much](/assets/images/2014-07-07-austin-i_love_you_so_much.jpg) 
 
 I thought this one looked rather ... boring? I mean, it just looks like someone spraycanned this. But apparently (of course) it has a [cheesy love backstory](http://austinist.com/2014/03/04/heres_the_musical_story_behind_the.php), and there was actually a line to take photos in front of it. 
 
-**![Welcome to Historic 6th Street](/assets/2014-07-07-austin-welcome_historic_6th_street.jpg)**
+![Welcome to Historic 6th Street](/assets/images/2014-07-07-austin-welcome_historic_6th_street.jpg)
 
-**![Tank wall](/assets/2014-07-07-austin-tank_wall.jpg)**
+![Tank wall](/assets/images/2014-07-07-austin-tank_wall.jpg)
 
 These two guys were across the street from each other. The Historic 6th Street mural was listed on all of the mural-related blog posts I’d found, but I didn’t see much on the internet about the other, the one with a tank literally sticking out of it. Once we got there though, obviously it was a little hard to miss. [According to the internet](http://www.complex.com/art-design/2014/03/andrew-schoultz-sxsw-mural-features-a-tank-crashing-through-a-wall), it was created recently, for this year’s SXSW.
 
-**![George Washington Carver Museum](/assets/2014-07-07-austin-g_w_carver_library.jpg)**
+![George Washington Carver Museum](/assets/images/2014-07-07-austin-g_w_carver_library.jpg)
 
 We had seen this one walking around near our first Airbnb, and biked by it again en route to our next mural stop!
 
-![You’re my butter half! Dawww](/assets/2014-07-07-austin-youre_my_butter_half.jpg)
+![You’re my butter half! Dawww](/assets/images/2014-07-07-austin-youre_my_butter_half.jpg)
 
 One of my favorites! [Tattly](http://tattly.com) did a custom of this design for United Way of Greater Austin (they were the ones who commissioned Creative Suitcase and its senior designer to paint it in the first place. [Here’s an interview](http://www.creativesuitcase.com/2012/05/youre-my-butter-half/) about it).
 
-![Hi, how are you? or, Jeremiah the Innocent](/assets/2014-07-07-austin-hi_how_are_you.jpg) 
+![Hi, how are you? or, Jeremiah the Innocent](/assets/images/2014-07-07-austin-hi_how_are_you.jpg) 
 
 Another one of those works that are appear innocuous but are actually [real-world-viral](http://en.wikipedia.org/wiki/Daniel_Johnston#Art_career). Hilariously, the Catholic church across the street has put up a banner with another alien-like creature saying “Doin just fine, want to join us for mass?” [Here’s an internet bit I found about that](http://viz.dwrl.utexas.edu/content/jeremiah-innocent-icon).
 
-**![Hope Outdoor Gallery](/assets/2014-07-07-austin-hope_outdoor_gallery.jpg)**
+![Hope Outdoor Gallery](/assets/images/2014-07-07-austin-hope_outdoor_gallery.jpg)
 
 If we saw some seemingly-unremarkable-but-actually-famous murals out there, this was probably the exact opposite of that. Hope Outdoor Gallery is a tiered lot-type area where  anyone could come in and graffiti whatever they wanted. 
 
 There were nooby artists tagging the walls, and the grounds were littered with spray cans. Kinda funny when you compare it to something like the late 5Pointz, where you just *don’t* randomly spray over someone else’s work. 
 
-**![South Austin Music](/assets/2014-07-07-austin-south_austin_music.jpg)**
+![South Austin Music](/assets/images/2014-07-07-austin-south_austin_music.jpg)
 
 We were tired by this point, and I didn’t immediately recognize anyone on this wall. But that concluded our bike trip! Here’s a map of how it all went down:
 

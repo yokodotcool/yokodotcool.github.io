@@ -1,10 +1,8 @@
 ---
-title: 'Illustration: The Monk, the Monkeys, and the Moo-moo Tree'
-date: 2014-08-08 00:02:00 -04:00
-layout: post
+title: Illustration: The Monk, the Monkeys, and the Moo-moo Tree
 ---
 
-![How to draw a tree? I have no idea.](/assets/2014-08-08-The-Monk,-The-Monkeys,-and-the-Moo-moo-Tree.jpg) 
+![How to draw a tree? I have no idea.](/assets/images/2014-08-08-The-Monk,-The-Monkeys,-and-the-Moo-moo-Tree.jpg) 
 
 [Kevin](http://kiwimonk.com) asked if I would draw an illustration to complement *The Monk, The Monkeys, and the Moo-Moo Tree*, a poem that he had written in eigth grade. In exchange, I would receive a watermelon agua fresca. I happily agreed. 
 

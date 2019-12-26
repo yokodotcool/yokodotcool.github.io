@@ -1,7 +1,6 @@
 ---
 title: Yoko is reading to Ari, 2017
 permalink: "/reading-to-ari-2017"
-layout: default
 ---
 
 <h1>Today</h1>

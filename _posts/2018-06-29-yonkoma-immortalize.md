@@ -1,6 +1,5 @@
 ---
 title: Immortalize this day
-date: 2018-06-29
 tags: yonkoma
 ---
 

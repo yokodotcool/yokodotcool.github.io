@@ -1,7 +1,6 @@
 ---
 title: Yoko is reading to Minori, 2017
 permalink: "/reading-to-minori-2017"
-layout: default
 ---
 
 <h1>Tacos!</h1>

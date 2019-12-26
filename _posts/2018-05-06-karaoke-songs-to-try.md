@@ -1,7 +1,6 @@
 ---
 title: Karaoke songlist lol
-permalink: "/karaoke-ing"
-layout: default
+published: false
 ---
 
 Songs to try:

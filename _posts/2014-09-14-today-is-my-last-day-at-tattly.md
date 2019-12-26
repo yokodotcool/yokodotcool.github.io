@@ -1,10 +1,8 @@
 ---
 title: Today is my last day at Tattly.
-date: 2014-09-14 23:06:00 -04:00
-layout: post
 ---
 
-**![Some doodles I drew during my first few days at Studiomates.](/assets/2014-09-14-doodles.jpg)**
+![Some doodles I drew during my first few days at Studiomates.](/assets/images/2014-09-14-doodles.jpg)
 
 It’s crazy to reflect on how much has changed since I started at [Studiomates](http://studiomates.com) as a design intern in May 2011. I was working on a hodgepodge of projects for [Tina](http://swiss-miss.com) and [Erica](http://energy7.com) and Tattly was just an idea. In the three years and four months since, every aspect of Studiomates has grown to an exponential degree, and [Tattly](http://tattly.com) has become a bonafide business made possible by a team of a dozen hardworking, talented, [amazing people](http://tattly.com/about#team). 
 

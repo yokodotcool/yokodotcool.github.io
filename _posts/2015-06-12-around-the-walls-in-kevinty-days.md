@@ -1,6 +1,5 @@
 ---
 title: Around the walls in Kevinty days
-date: 2015-06-12 23:21:00 -04:00
 tags: ongoing
 ---
 

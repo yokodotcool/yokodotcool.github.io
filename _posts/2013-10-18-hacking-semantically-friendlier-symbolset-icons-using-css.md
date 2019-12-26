@@ -1,7 +1,5 @@
 ---
 title: Hacking semantically-friendlier Symbolset icons using CSS
-date: 2013-10-18 20:30:00 -04:00
-layout: post
 ---
 
 *&#42; This post is ooold and some parts are broken; namely, the icons don’t work anymore because I don’t use Symbolsets anymore.*
@@ -24,7 +22,7 @@ My solution was to use empty elements with a `ss-icon` class, and inject another
 
 And then create a separate CSS snippet in my theme where any element with both the `ss-icon` class and the `[slug]` class will have the properly mapped keyword injected into the empty element:
 
-![A pie chart, because it looks like a pie, which is food! I know, it’s a bit of a stretch.](/assets/2013-10-18-symbolset-hacking.jpg) 
+![A pie chart, because it looks like a pie, which is food! I know, it’s a bit of a stretch.](/assets/images/2013-10-18-symbolset-hacking.jpg) 
 
 This way, if I wanted to change the icon associated with any of my tags, I only need to open up and edit this one file. Another nice thing is that it’s a file associated only with the theme being used, and the hacking of Symbolset happens independently of any of the content living in Siteleaf. 
 

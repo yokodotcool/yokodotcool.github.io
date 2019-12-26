@@ -1,6 +1,5 @@
 ---
 title: Ok I will try
-date: 2018-06-10
 tags: yonkoma
 ---
 
