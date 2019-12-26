@@ -16,6 +16,13 @@ I’m particularly proud of the layout of the site, which uses CSS grid, and _fi
 
 I’m also excited because I can now (manually) indicate if I make a noteworthy update to a post, using <a href="https://jekyllrb.com/docs/front-matter/#custom-variables">custom front matter</a>. This would be useful for things like the <a href="/your-nyc-guide">NYC guide</a> that I created forever ago, but still update every once in a while. I like that I can do this without changing the creation date of the content, which I hope will encourage me to continue building and iterating on what I already have, rather than “delete everything and start from scratch” like I’ve done so many times in the past :D
 
+<figure>
+    <img src="/assets/images/2019-12-25-css-grid-sketch.png" alt="Three line diagrams representing how the site content changes at different breakpoints">
+    <figcaption>
+        A Figma sketch of the content at different breakpoints
+    </figcaption>
+</figure>
+
 ## On Dec 22, 2019
 
 I’m working on a version of this site that takes a few things into consideration:
