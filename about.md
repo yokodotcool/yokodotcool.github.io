@@ -8,7 +8,7 @@ last_updated: 2019-12-23
     <figcaption>Self-isolation with Kevin in Sunset Park, 2020. Taken with a self timer.</figcaption>
 </figure>
 
-My dad moved from Numazu, a small beach town in Japan, to the Upper West Side in 1966 after becoming enamored with the New York depicted in West Side Story. My mom, from the Kansai region, is a traveler at heart and came to the US through her corporate job at an airline company. They met and married in the UWS, where I was born and raised. I was named “Yoko” for a few reasons, but notably because my parents figured <a href="https://en.wikipedia.org/wiki/Yoko_Ono">Yoko Ono</a> was a famous enough person that it wouldn’t be challenging for other Americans to pronounce or remember my name. 
+My dad moved from Numazu, a beach town in Japan, to the Upper West Side in 1966 after becoming enamored with the New York depicted in West Side Story. My mom, from the Kansai region, is a traveler at heart and came to the US through her corporate job at an airline company. They met and married in the UWS, where I was born and raised. I was named “Yoko” for a few reasons, but notably because my parents figured <a href="https://en.wikipedia.org/wiki/Yoko_Ono">Yoko Ono</a> was a famous enough person that it wouldn’t be challenging for other Americans to pronounce or remember my name. 
 
 I was online as soon as internet was available in my home, and communicating through IMs and forums quickly became second nature to me. Even now, with the exception of a few close friends and family, I feel most understood through the internet, where I’ve found it easier to be myself. I’ve gone through many incarnations of personal websites, and I’m always hoping the latest one is the one that “lasts.”
 
