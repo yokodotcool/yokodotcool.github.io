@@ -27,7 +27,7 @@ main {
     }
 
     img { 
-        border: 1px solid $bg-light-gray; 
+        box-shadow: 0px 0px 1em $bg-gray;
         max-width: 100%; 
     }
 
