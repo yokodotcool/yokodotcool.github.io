@@ -37,13 +37,13 @@ I got a bunch of wonderful inputs:
 
 ![Yet another page, this time showing a Google Fonts substitute (Dosis) for the wordmark font (GT Pressura), as well as a secondary font for body text (Crimson Text)](/assets/images/2016-12-06-people-and-company-branding-fonts.jpg)
 
-I wanted the guidelines to feel actionable; I used the swoon-worthy [Pressura](https://www.grillitype.com/typeface/gt-pressura) by [Grilli Type](https://www.grillitype.com/) for the wordmark and logos, but I didn’t think it was realistic to expect Pressura to be reliabley make it into the documents, decks, and website pages where the company will really live and express itself. So I sought a Google Font that came close enough ([Dosis](https://fonts.google.com/specimen/Dosis) by [Impallari Type](https://github.com/impallari)) and a complementary serif ([Crimson Text](https://fonts.google.com/specimen/Crimson+Text) by [Sebastian Kosch](https://github.com/skosch)) that would be better used for body text.
+I wanted the guidelines to feel actionable; I used the swoon-worthy [Pressura](https://www.grillitype.com/typeface/gt-pressura) by [Grilli Type](https://www.grillitype.com/) for the wordmark and logos, but I didn’t think it was realistic to expect Pressura to be reliably make it into the documents, decks, and website pages where the company will really live and express itself. So I sought a Google Font that came close enough ([Dosis](https://fonts.google.com/specimen/Dosis) by [Impallari Type](https://github.com/impallari)) and a complementary serif ([Crimson Text](https://fonts.google.com/specimen/Crimson+Text) by [Sebastian Kosch](https://github.com/skosch)) that would be better used for body text.
 
 ![Sample font usage, using snippets of reviews for Lupe Fiasco’s “Tetsu and the Youth” as dummy text.](/assets/images/2016-12-06-people-and-company-branding-lupe-fiasco.jpg)
 
 ![Three colors: Dolphin Blue, Grandmaster Red, and Empathy Gold.](/assets/images/2016-12-06-people-and-company-branding-colors.jpg)
 
-I admit that my color selection was mostly influenced by Kevin’s sartorial aesthetic, but I liked the idea of primary colors being the foundation off which all other colors are created. Remixing of the old to create the new, ya know? Slightly adjusted to be more bright and modern. I gave them fun names: “Grandmaster Red” “Empathy Gold” “Dolphine Blue.” Concepts!!!
+I admit that my color selection was mostly influenced by Kevin’s sartorial aesthetic, but I liked the idea of primary colors being the foundation off which all other colors are created. Remixing of the old to create the new, ya know? Slightly adjusted to be more bright and modern. I gave them fun names: “Grandmaster Red” “Empathy Gold” “Dolphin Blue.” Concepts!!!
 
 <figure>
     <img src="/assets/images/2016-12-06-people-and-company-branding-science.jpg" alt="Another page from the final presentation. A line from the movie (and possibly the book? But I imagine Matt Damon saying it, so.) “The Martian”: I’m going to have to science the shit out of this.">
