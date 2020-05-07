@@ -21,9 +21,15 @@ body > footer { background-color: $bg-light-gray; }
 
 main {
     blockquote {
-        border-left: 1px solid $bg-gray;
+        border-left: 3px solid $bg-gray;
         margin-left: 1em;
         padding-left: 1em;
+        p {
+          color: $fg-gray;
+          font-style: italic;
+          padding-top: .15em;
+          padding-bottom: .15em;
+        }
     }
 
     img { 
