@@ -23,3 +23,5 @@ Some years ago I had also taken a ... StrengthsFinder test which I guess is simi
 5. Restorative
 
 The whole UI around the [CliftonStrengths](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) fka StrengthsFinder2.0 assessment website is so cagey and paywall-y and I super don’t like that. But personality assessments are fun.
+
+Also ... I have a feeling that this connection that I just discovered for myself was drawn by maybe BOTH Jesses long before today.
