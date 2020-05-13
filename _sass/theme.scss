@@ -53,6 +53,11 @@ main {
     .borderless {
         border: 0;
     }
+
+    .no-shadow {
+      box-shadow: none;
+    }
+
 }
 
 // Theme typography styles
