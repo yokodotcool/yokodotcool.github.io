@@ -1,6 +1,5 @@
 ---
-title: Pour one out for our cancelled wedding
-published: false
+title: Stuff we made for our (cancelled) wedding
 ---
 
 Not really going to dwell on the bummer-factor of us needing to cancel our wedding, but today was supposed to be the day! I wanted to memorialize this cancelled event by sharing the comms materials and whatnot I made for it, especially since some of them have yet to see the light of day.
