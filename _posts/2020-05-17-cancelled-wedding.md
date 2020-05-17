@@ -13,7 +13,7 @@ Not really going to dwell on the bummer-factor of us needing to cancel our weddi
 	</figcaption>
 </figure>
 
-Our first comms! We didn’t really have an ~ aesthetic vision ~ for the wedding when we made these, but Kev and I have always been a fan of eggs (as food, as color palette inspiration, and as a basis for a [yet-to-be-realized lifestyle brand](http://overeasy.team/)), so this is where it started. This initial inspo carried through our planning—we eventually would decide to host a brunch-vibe daytime wedding that, of course, served breakfast food.
+Our first comms! We didn’t really have an ~ aesthetic vision ~ for the wedding when we made these, but Kev and I have always been a fan of eggs (as food, as color palette inspiration, and as a basis for a [yet-to-be-realized lifestyle brand](http://overeasy.team/)), so this is where it started. This initial inspo carried through our planning—we eventually would decide to host a brunch-vibe daytime wedding that, of course, served diner-y breakfast food.
 
 ## Invitation
 
@@ -24,7 +24,7 @@ I remember fretting a lot about this invitation. I originally thought that it wo
 <figure>
 	<img src="/assets/images/2020-05-17-wedding-materials-process-2.jpg" alt="A collage of three photos: Top left, I’m addressing an envelope by hand with a brush pen; bottom left: a stack of our invitations with Kevin’s note facing up next to a stack of our sticker sheets; on the right: the front side of our invitation, on a yellow envelope liner." />
 	<figcaption>
-		Just thinking about the process of writing our guests’ addresses. I’ve handlettered addresses for my friends’ invitations before, but the experience of knowing and thinking about each person as I wrote their name was really special.
+		Just thinking about the process of writing our guests’ addresses — I’ve handlettered addresses for my friends’ invitations before, but the experience of knowing and thinking about each person as I wrote their name was really special.
 	</figcaption>
 </figure>
 
@@ -50,17 +50,17 @@ We also made sticker sheets because, why not??? We thought about using these as 
 
 ![A very heavy GIF of a browser scrolling through our wedding website.](/assets/images/2020-05-17-wedding-website.gif)
 
-A truly collaborative effort with TONS OF _*FUN CONTENT*_. It lives on, if you want to check it out: [kevinyoko.party](https://kevinyoko.party)
+A truly collaborative effort with TONS OF _**FUN CONTENT**_. It lives on, if you want to check it out: [kevinyoko.party](https://kevinyoko.party)
 
 ## Guest favors
 
-We had two lil gifts planned for our guests: Pins of our faces, and a zine. We still think this is a brilliant idea. If we do have a wedding, those pins are definitely making it in. I don’t know if I have the energy to create more content for a zine though. We’ll see!
+We had two lil gifts planned for our guests: Pins of our faces, and a zine. We still think this is a brilliant idea. If we do have a wedding, those pins are definitely making it in. I don’t know if I’ll have the energy to create more content for a zine though. We’ll see!
 
 ![Mockups of the two pins we were planning to order, sent by our printer. One each of our faces; the outline is raised metal; the backs are those claspy things.](/assets/images/2020-05-17-wedding-materials-pins.jpg)
 
 We did order these pins, but I’d had them shipped to the Etsy office (Brooklyn apartment life, you know?). They supposedly arrived after we started working from home, so we haven’t seen them yet.
 
-The zine was supposed to be about 16 – 20 pages long, and I’d imagined it would include some intros about us, a timeline of our relationship, a map of Sunset Park (for when folks visit), and other random things. Here are sketches of some of the “other random things” we might have included:
+The zine was supposed to be about 16 – 20 pages long, and I’d imagined it would include some intros about us, a timeline of our relationship, a map of notable places in our neighborhood of Sunset Park (for when folks visit), and other random things. Here are sketches of some of the “other random things” we might have included:
 
 ![It’s a sketch titled “Yoko hair evolution.” There are 10 heads with my face on it, and they’re numbered from the year 2011 when Kevin and I met, through 2020 when we were supposed to get married. The heads for 2019 and 2020 are just surrounded by question marks.](/assets/images/2020-05-17-wedding-materials-sketches-1.jpg)
 
@@ -68,7 +68,7 @@ This was drawn in 2018, right after we got engaged (which is why 2019 and 2020 a
 
 ![A sketch titled “Kevin outfits.” There are four drawings of Kevin wearing various outfits and doing various activities: “Skin suit” Kevin with a kendama; “Fly boyscout” Kevin with devil sticks; “Chill fisherman” Kevin with a Rubik’s cube; and “Slimfit astronaut” Kevin with an ukulele.](/assets/images/2020-05-17-wedding-materials-sketches-2.jpg)
 
-Also, some comics about us and our lives. One day I’m going to write a separate post and have these be bigger images so you can actually read them:
+We also wanted to include some comics about us and our lives—some of them we’d made a while back, some were meant to be new for the zine. One day I’m going to write a separate post and have these be bigger images so you can actually read them (and I’ll actually write the alt texts):
 
 <figure>
 	<img src="/assets/images/2020-05-17-wedding-materials-comics-1.jpg" alt="Two comics, squished together so they’re hard to read. The first comic is about how we like to do random things to “immortalize” a day aka make it a day we never forget. The second is about how I’m disciplined about waking up on time on weekdays, and it’s the complete opposite on the weekends." />
@@ -86,7 +86,7 @@ Also, some comics about us and our lives. One day I’m going to write a separat
 
 ## In conclusion
 
-Though our wedding would have been dope, it did not happen. But I’m a millennial designer who has a website so I sure as heck am not going to let all the #content I created stay hidden away forever. Hope you enjoyed it!
+We can’t celebrate our wedding the way we wanted, but maybe it’s cool to celebrate some of the work that went into it. I was proud of a lot of this stuff! Also, I’m a millennial designer who has a website and I sure as heck am not going to let all the #content stay hidden away forever. Hope you enjoyed it as much as I enjoyed working on it!
 
 <figure>
 	<img src="/assets/images/2020-05-17-cancelled-wedding-subject-lines.png" alt="A partial screenshot of my Gmail search results for `we are cancel`, which returns three emails that all start with the same subject line: “We are cancelling our wedding”" />

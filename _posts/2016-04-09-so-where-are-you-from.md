@@ -1,6 +1,6 @@
 ---
 title: So Where Are You From?
-tags: ongoing featured
+tags: featured
 ---
 
 
