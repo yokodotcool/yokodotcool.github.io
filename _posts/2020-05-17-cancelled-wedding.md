@@ -2,7 +2,7 @@
 title: Stuff we made for our (cancelled) wedding
 ---
 
-Not really going to dwell on the bummer-factor of us needing to cancel our wedding, but today was supposed to be the day! I wanted to memorialize this cancelled event by sharing the comms materials and whatnot I made for it, especially since some of them have yet to see the light of day.
+Not really going to dwell on the bummer-factor of us needing to cancel our wedding, but today was supposed to be the day! I wanted to memorialize this non-event by sharing the comms materials and whatnot we made for it, especially since some of them have yet to see the light of day.
 
 ## Save the date
 
@@ -19,16 +19,16 @@ Our first comms! We didn’t really have an ~ aesthetic vision ~ for the wedding
 
 ![Our invitation: Hand-drawn blobby white shapes, orange yolky circles on a light gray background. The invitation text, which I guess isn’t really that important, is also hand drawn in a Sharpie-like style](/assets/images/2020-05-17-wedding-materials-invitation.jpg)
 
-I remember fretting a lot about this invitation. I originally thought that it would be scored and folded like a greeting card, but it’s surprisingly hard to find an on-demand printer who can do that easily. It also turned out that we didn’t really have much information to include—since it would be on the website. On the back, Kevin drafted a little message to our guests: Why we’re getting married, why they’re invited, and please RSVP by so-and-so date. I liked that it was a little unconventional for a wedding invitation.
+I remember fretting a lot about this invitation. I originally thought that it would be scored and folded like a greeting card, but it’s quite hard to find a printer who can do that easily. It also turned out that we didn’t really have much information to include, since all of it would be on the website. On the back, Kevin drafted a little message to our guests: Why we’re getting married, why they’re invited, and please RSVP by so-and-so date. I liked that it was a little unconventional for a wedding invitation.
 
 <figure>
 	<img src="/assets/images/2020-05-17-wedding-materials-process-2.jpg" alt="A collage of three photos: Top left, I’m addressing an envelope by hand with a brush pen; bottom left: a stack of our invitations with Kevin’s note facing up next to a stack of our sticker sheets; on the right: the front side of our invitation, on a yellow envelope liner." />
 	<figcaption>
-		Just thinking about the process of writing our guests’ addresses. I’ve handlettered address for my friends’ invitations before, but the experience of knowing and thinking about each person as I wrote their name was really special.
+		Just thinking about the process of writing our guests’ addresses. I’ve handlettered addresses for my friends’ invitations before, but the experience of knowing and thinking about each person as I wrote their name was really special.
 	</figcaption>
 </figure>
 
-![Sticker sheet! 11 drawings: A cast iron pan with a chill-looking egg in it, a kendama with Kevin’s head as the ball, a panda, a medal that says “Certified Cool Human by Kevin & Yoko”, Yoko riding an orange cat with Kevin’s face and hair, a lonely meatball, Kevin using a parachute shaped like Yoko, Yoko as an inflatable tubeperson, a VERY CUTE rice cooker, Kevin running in one direction, Yoko running in another direction. There are also stickers that say “Sup!” “Nice” “わーい (yay)” “đặc biệt (special).”](/assets/images/2020-05-17-wedding-materials-invitation.jpg)
+![Sticker sheet! 11 drawings: A cast iron pan with a chill-looking egg in it, a kendama with Kevin’s head as the ball, a panda, a medal that says “Certified Cool Human by Kevin & Yoko”, Yoko riding an orange cat with Kevin’s face and hair, a lonely meatball, Kevin using a parachute shaped like Yoko, Yoko as an inflatable tubeperson, a VERY CUTE rice cooker, Kevin running in one direction, Yoko running in another direction. There are also stickers that say “Sup!” “Nice” “わーい (yay)” “đặc biệt (special).”](/assets/images/2020-05-17-wedding-materials-sticker-sheet.jpg)
 
 We also made sticker sheets because, why not??? We thought about using these as guest favors, but they were easy to include in our invitation, plus if someone wasn’t able to attend, they still got a feel of the vibe we wanted our wedding to be. We also ordered like, twice as many as we needed, and then the sticker company gave us extra. They came on a roll and I had to cut them all down so they fit in the envelopes 😐
 
@@ -86,7 +86,7 @@ Also, some comics about us and our lives. One day I’m going to write a separat
 
 ## In conclusion
 
-Our wedding would have been dope, but it did not happen. But I’m a millennial designer who has a website so I sure as heck am not going to let all the #content I created stay hidden away forever.
+Though our wedding would have been dope, it did not happen. But I’m a millennial designer who has a website so I sure as heck am not going to let all the #content I created stay hidden away forever. Hope you enjoyed it!
 
 <figure>
 	<img src="/assets/images/2020-05-17-cancelled-wedding-subject-lines.png" alt="A partial screenshot of my Gmail search results for `we are cancel`, which returns three emails that all start with the same subject line: “We are cancelling our wedding”" />
