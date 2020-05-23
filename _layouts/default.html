@@ -48,6 +48,14 @@
         </main>
 
         <footer class="footer">
+            {% if page.id == "about.md" %}
+            <div class="marqueeeee">
+                <p class="marqueeeee-inner">
+                    <span>🚧 This site is <em>always</em> under construction. 🚧</span>
+                    <span aria-hidden="true">🚧 This site is <em>always</em> under construction. 🚧</span>
+                </p>
+            </div>            
+            {% endif %}
             <div class="footer-content">
                 <p class="text-body-small">
                     Yoko Sakao Ohama (she/her) makes this site with <a href="https://jekyllrb.com">Jekyll</a> and runs it on <a href="https://github.com/psyoko/psyoko.github.io">Github Pages</a>.

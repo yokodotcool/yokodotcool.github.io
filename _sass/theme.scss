@@ -126,6 +126,10 @@ main {
     margin-bottom: 60px;
   }
 
+  header nav ul li {
+    margin-top: 18px;
+  }
+
   .footer-content {
     width: 800px; // Combined width of the two middle columns
   }
@@ -187,4 +191,49 @@ main {
     filter: blur(10px);
     opacity: .25;
   }
+}
+
+// Marqueeeee
+// 
+//
+
+.marqueeeee {
+    align-items: center;
+    background-color: $bg-gold;
+    display: flex;
+    height: 2.5rem;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.marqueeeee-inner {
+    display: block;
+    font-family: $lmao-font;
+    height: 2rem;
+    margin: .25rem 0;
+    overflow: hidden;
+    position: absolute;
+    width: 200%;
+
+    animation: marqueeeee 15s linear infinite;
+}
+
+.marqueeeee span {
+    float: left;
+    width: 50%;
+}
+
+@keyframes marqueeeee {
+    0% { left: 0; }
+    100% { left: -100%; }
+}
+
+/* Respect user preferences about animations */
+
+@media (prefers-reduced-motion: reduce) {
+    .marqueeeee-inner {
+        animation: none;
+        padding-left: 0;
+    }
 }
