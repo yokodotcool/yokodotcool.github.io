@@ -37,7 +37,7 @@ main {
         max-width: 100%; 
     }
 
-    p, ol, ul:not(class=slideshow) {
+    p, ol, ul:not(.slideshow) {
         max-width: 600px;
     }
 
