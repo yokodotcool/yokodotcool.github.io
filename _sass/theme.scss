@@ -37,7 +37,7 @@ main {
         max-width: 100%; 
     }
 
-    p, ol, ul {
+    p, ol, ul:not(class=slideshow) {
         max-width: 600px;
     }
 
@@ -232,8 +232,5 @@ main {
 /* Respect user preferences about animations */
 
 @media (prefers-reduced-motion: reduce) {
-    .marqueeeee-inner {
-        animation: none;
-        padding-left: 0;
-    }
+    animation: none;
 }
