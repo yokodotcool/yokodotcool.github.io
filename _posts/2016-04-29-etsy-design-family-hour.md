@@ -11,9 +11,9 @@ My name is Yoko, I’m currently a designer at Squarespace.
 
 <figure>
 	<ul id="ss-etsy-DFH-squarespace" class="slideshow">
-		<li class="slide"><img src="/assets/2016-04-29-etsy-dfh-squarespace-wells.png" /></li>
-		<li class="slide"><img src="/assets/2016-04-29-etsy-dfh-squarespace-clay.png" /></li>
-		<li class="slide"><img src="/assets/2016-04-29-etsy-dfh-squarespace-snapshot.png" /></li>
+		<li class="slide"><img src="/assets/images/2016-04-29-etsy-dfh-squarespace-wells.png" /></li>
+		<li class="slide"><img src="/assets/images/2016-04-29-etsy-dfh-squarespace-clay.png" /></li>
+		<li class="slide"><img src="/assets/images/2016-04-29-etsy-dfh-squarespace-snapshot.png" /></li>
 	</ul>
 	<figcaption>
 		Screenshots of some of the templates and Cover Pages I designed while at Squarespace: <a href="https://wells-demo.squarespace.com/">Wells</a>, <a href="https://clay-demo.squarespace.com/">Clay</a>, and <a href="https://snapshot--demo.squarespace.com">Snapshot</a>
