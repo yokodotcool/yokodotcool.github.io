@@ -22,7 +22,7 @@ function insertPanda() {
     var randomPanda = pandaList[Math.floor(Math.random() * pandaList.length)];
     var pandaPath = "/assets/images/-pandas/panda-" + randomPanda + ".png"; 
     document.getElementById('header-panda').src = pandaPath; 
-}
+};
 
 //  Pull random greeting
 
@@ -38,5 +38,5 @@ var greetingList = [
 
 function insertGreeting() {
     let randomGreeting = greetingList[Math.floor(Math.random() * greetingList.length)];
-    document.getElementById('header-panda').src = randomGreeting; 
+    document.getElementById('random-greeting').src = randomGreeting; 
 }
