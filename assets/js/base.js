@@ -23,3 +23,20 @@ function insertPanda() {
     var pandaPath = "/assets/images/-pandas/panda-" + randomPanda + ".png"; 
     document.getElementById('header-panda').src = pandaPath; 
 }
+
+//  Pull random greeting
+
+var greetingList = [
+    'Hiya',
+    'Sup',
+    'Hellooo',
+    'Heyo',
+    'Hiii',
+    'Oh hi',
+    'Hhhi'
+];
+
+function insertGreeting() {
+    let randomGreeting = greetingList[Math.floor(Math.random() * greetingList.length)];
+    document.getElementById('header-panda').src = randomGreeting; 
+}
