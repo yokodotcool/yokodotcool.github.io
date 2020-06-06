@@ -37,6 +37,6 @@ var greetingList = [
 ];
 
 function insertGreeting() {
-    let randomGreeting = greetingList[Math.floor(Math.random() * greetingList.length)];
+    var randomGreeting = greetingList[Math.floor(Math.random() * greetingList.length)];
     document.getElementById('random-greeting').textContent = randomGreeting; 
-}
+};
