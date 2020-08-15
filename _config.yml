@@ -4,7 +4,7 @@
 title: Yoko.is
 timezone: America/New_York
 email: ysohama+site@gmail.com
-escription: This is the personal website and portfolio of Yoko Sakao Ohama, a Brooklyn-based multidisciplinary designer.
+description: This is the personal website and portfolio of Yoko Sakao Ohama, a Brooklyn-based multidisciplinary designer.
 markdown: kramdown
 
 defaults:
@@ -25,3 +25,10 @@ plugins:
 
 exclude:
   - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
