@@ -11,3 +11,5 @@ We were on a walk to Cat Park today and we met one of the people who maintains o
 Here’s a drawing that I made while thinking about what next year will be like:
 
 ![An illustration: Yoko in a mask, standing on a hill with water and a skyline of Lower Manhattan in the background. Panda is next to her, also wearing a mask. Yoko is holding a big balloon that says “2021,” which goes into the clouds. Above the clouds are Little Wing and a Winged Panda, looking down at Yoko and Panda. There is a sun shining down, coming a little bit through the clouds. Deep in the ground of the hill, there is a skull.](/assets/images/2020-12-26-2021-balloon.jpg)
+
+It was so easy to make this post, I feel like I can’t not do this thing next year. Hopefully writing it out into the world, even if no one really sees it, will keep me going.
