@@ -44,14 +44,14 @@ title: Site archive
             {% assign month_ago_epoch = "now" | date: "%s" | minus: 2592000 | date: "%s" %}
             {% assign post_date_string = post.date | date: "%s" %}
 
-            {% if month_ago_epoch < post_date_string %}
+<!--             {% if month_ago_epoch < post_date_string %}
                 <span class="badge">new</span>
             {% endif %}
 
             {% if month_ago_epoch < last_updated_epoch %}
                 <span class="badge">recently updated</span>
             {% endif %}
-
+ -->
             {% if post.tags contains 'ongoing' %}
                 <span class="badge">ongoing</span>
             {% endif %}
