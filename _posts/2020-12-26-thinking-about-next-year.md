@@ -1,5 +1,7 @@
 ---
 title: Thinking about next year
+categories: 
+- personal
 ---
 
 Thinking about trying something next year, where I try to write a post every week. It doesn’t have to be about anything in particular, mostly just to get some words out. I don’t think I want anyone to be fed updates, and I don’t want to keep anyone from seeing it either. I think I would frame the content within those constraints. Which might mean it might get a little bit personal, and maybe not too personal.
