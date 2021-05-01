@@ -3,6 +3,12 @@ title: A post with all the elements
 date: 1986-01-15
 ---
 
+Bầu trời trong xanh thăm thẳm, không một gợn mây.
+Almost before we knew it, we had left the ground.
+ニューヨーク市のアッパー・ウエスト・サイドで生まれ育ち、現在はブルックリン区のサンセット・パークに住んでいます。
+
+`“Welcome to our village wee one,” Prime Minister Jacinda Ardern posted on Instagram.`
+
 # H1 - Defaults to 2em but 1.5em in `<article>`: The Week in Good News 
 
 Sometimes it seems as if we’re living under a constant barrage of heavy news. But it isn’t all bad out there. This feature is meant to send you into the weekend with a smile, or at least a lighter heart. 
