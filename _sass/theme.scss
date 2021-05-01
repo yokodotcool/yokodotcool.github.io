@@ -132,6 +132,41 @@ main {
   }
 }
 
+// Fancy golden hover style
+// https://codepen.io/psyoko/pen/ExZBMeP
+//
+
+.fancy {
+    margin: -.375em;
+    padding: .375em;
+
+    &:hover {
+    background: linear-gradient(135deg, #C3AA79, #fec, #C3AA79, #fec,);
+    background-size: 300% 300%;
+    color: #222;
+
+    -webkit-animation: GradientCycle 1s infinite linear;
+    -moz-animation: GradientCycle 1s infinite linear;
+    animation: GradientCycle 1s infinite linear;
+        
+    }
+}
+
+@-webkit-keyframes GradientCycle {
+    0%{background-position:0 0}
+    100%{background-position:100% 100%}
+}
+
+@-moz-keyframes GradientCycle {
+    0%{background-position:0 0}
+    100%{background-position:100% 100%}
+}
+
+@keyframes GradientCycle {
+    0%{background-position:0 0}
+    100%{background-position:100% 100%}
+}
+
 // Post slideshow v1
 // https://codepen.io/psyoko/pen/RwWOQab
 //
