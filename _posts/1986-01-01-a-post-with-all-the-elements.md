@@ -5,7 +5,7 @@ date: 1986-01-15
 
 Bầu trời trong xanh thăm thẳm, không một gợn mây.
 Almost before we knew it, we had left the ground.
-ニューヨーク市のアッパー・ウエスト・サイドで生まれ育ち、現在はブルックリン区のサンセット・パークに住んでいます。
+ニューヨーク市のアッパー・ウエスト・サイドで生まれ育ち、現在はブルックリンのサンセット・パークに住んでいます。
 
 `“Welcome to our village wee one,” Prime Minister Jacinda Ardern posted on Instagram.`
 
