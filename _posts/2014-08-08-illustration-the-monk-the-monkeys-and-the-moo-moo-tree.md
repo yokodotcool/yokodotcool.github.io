@@ -1,5 +1,5 @@
 ---
-title: Illustration: The Monk, the Monkeys, and the Moo-moo Tree
+title: Illustration — The Monk, the Monkeys, and the Moo-moo Tree
 
 last_updated: 
 permalink: 
