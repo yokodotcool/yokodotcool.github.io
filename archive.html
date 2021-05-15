@@ -12,27 +12,25 @@ title: Site archive
         {% endif %}
     {% endfor %}
 </ul>
+ -->
 
+<h3>Categories</h3>
+<ul>
 {% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <li>{{ category[0] }} ({{ category[1].size }})</li>
+{% endfor %}
+</ul>
+
+<h3>Tags</h3>
+<ul>
+{% for tag in site.tags %}
+  <li>{{ tag[0] }} ({{ tag[1].size }})</li>
 {% endfor %}
 
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %} -->
+</ul>
 
 <p>
-    A living list of all of the content I’ve ever put on a personal website, or wanted to put on a personal website. Much of it is old, empty, broken, embarrassing stuff, but hopefully some of it is new! More being added as I go through content archives of my old sites.
+    A living list of all of the content I’ve ever put on a personal website, or wanted to put on a personal website. Much of it is old, empty, broken, embarrassing stuff. Sometimes I’ll add stuff, sometimes I might take stuff down :shrug: I do what I want!
 </p>
 
 <ul>
