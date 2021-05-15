@@ -1,8 +1,14 @@
 ---
 title: Some memories of my dad
-categories: 
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
 - personal
-tags: 
+
+tags:
 - nao ohama
 ---
 

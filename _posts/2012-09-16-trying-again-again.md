@@ -1,5 +1,15 @@
 ---
 title: Trying again, again
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- site
+
+tags:
+- redesigns
 ---
 
 I struggle with maintaining personal web projects, and my iteration style accommodates this bad habit — meaning, I have trouble committing and I make things knowing that I can change them later. 

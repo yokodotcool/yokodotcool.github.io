@@ -1,9 +1,16 @@
 ---
 title: We made shelves for our desks ヽ( ´ー｀)ノ
+
+last_updated: 
+permalink: 
+published: true
+
 categories:
-- home stuff
+- personal
+
 tags:
 - diy
+- snapshots
 ---
 
 ![A photo of my desk in our bedroom! More on that maybe another time. The desk is empty except for a shelf made of wood; on the shelf there is a desk lamp, and to the left of the shelf on the desk is a NYTimes mug with pens and stuff in it.](/assets/images/2021-01-18-desk-shelf.jpg)

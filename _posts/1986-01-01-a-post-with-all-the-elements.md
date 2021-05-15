@@ -1,7 +1,17 @@
 ---
 title: A post with all the elements
-date: 1986-01-15
+
+last_updated: 2021-05-15
+permalink: "/test"
+published: true
+
+categories:
+- site
+
+tags:
+- doot
 ---
+
 
 Bầu trời trong xanh thăm thẳm, không một gợn mây.
 Almost before we knew it, we had left the ground.
@@ -60,4 +70,13 @@ Dope animals:
         A small image using <code>figure</code> and <code>figcaption</code>
     </figcaption>
 </figure>
+
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 

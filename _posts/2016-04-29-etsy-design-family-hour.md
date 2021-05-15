@@ -1,5 +1,17 @@
 ---
 title: Etsy Design Family Hour
+
+last_updated: 
+permalink: 
+published: false
+
+categories:
+- projects
+
+tags:
+- etsy
+- talks
+- career
 ---
 
 ## Introductions

@@ -1,5 +1,16 @@
 ---
-title: CM Summit Nametags
+title: CM Summit nametags
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- projects
+
+tags:
+- creativemornings
+- hand lettering
 ---
 
 ![Nic Annette Miller, New York](/assets/images/2014-10-15-CM-Summit-nametags-nic.jpg)

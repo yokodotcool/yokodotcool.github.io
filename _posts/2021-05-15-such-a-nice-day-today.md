@@ -1,9 +1,16 @@
 ---
 title: Such a nice day today!
+
+last_updated: 
+permalink: 
+published: true
+
 categories:
-- life
+- personal
+
 tags:
 - atwikd
+- snapshots
 ---
 
 Solid Saturday morning. 

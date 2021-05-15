@@ -1,5 +1,15 @@
 ---
 title: Hacking semantically-friendlier Symbolset icons using CSS
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- site
+
+tags:
+- leet sh*t
 ---
 
 *&#42; This post is ooold and some parts are broken; namely, the icons don’t work anymore because I don’t use Symbolsets anymore.*

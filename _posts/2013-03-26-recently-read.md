@@ -1,5 +1,16 @@
 ---
 title: Recently read
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- books
+- links
 ---
 
 [The Lonely Polygamist](http://www.amazon.com/gp/product/B003KVLTJM/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003KVLTJM&linkCode=as2&tag=yokois-20)  

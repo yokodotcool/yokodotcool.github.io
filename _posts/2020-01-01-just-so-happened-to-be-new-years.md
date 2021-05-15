@@ -1,5 +1,15 @@
 ---
 title: Just so happened to be new year’s
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- 
 ---
 
 Happy new year from Japan! I already feel weird for posting this journal-like entry on a place that is technically public, so who knows how long I’ll keep this up.

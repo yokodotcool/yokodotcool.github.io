@@ -1,5 +1,15 @@
 ---
 title: Thinking with Type, again
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- books
 ---
 
 ![A photo of Ellen Lupton’s book Thinking with Type peeking out from the bottom on a white table.](/assets/images/2014-04-01-thinking_with_type.jpg)

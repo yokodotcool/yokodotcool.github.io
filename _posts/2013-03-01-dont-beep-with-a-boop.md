@@ -1,5 +1,16 @@
 ---
-title: Don’t — with a —
+title: Don’t [beep] with a [boop]
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- projects
+
+tags:
+- t shirts
+- hand lettering
 ---
 
 ![Potty mouth!](/assets/images/2013-03-01-dont_fuck_with_fresh-800x1236.jpg)

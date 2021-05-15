@@ -1,5 +1,17 @@
 ---
-title: Today is my last day at Tattly.
+title: Today is my last day at Tattly
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- tattly
+- illustrations
+- career
 ---
 
 ![Some doodles I drew during my first few days at Studiomates.](/assets/images/2014-09-14-doodles.jpg)

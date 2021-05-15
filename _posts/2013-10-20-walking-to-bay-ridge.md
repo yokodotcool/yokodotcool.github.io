@@ -1,5 +1,16 @@
 ---
 title: Walking to Bay Ridge
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- splorin
+- snapshots
 ---
 
 ![Deceptively large, slightly magical Owl’s Head Park](/assets/images/2013-10-20-bay-ridge-walk-2.jpg)

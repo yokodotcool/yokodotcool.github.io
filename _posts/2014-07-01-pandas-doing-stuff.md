@@ -1,5 +1,16 @@
 ---
 title: Pandas doing stuff
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- projects
+
+tags:
+- pandas
+- illustrations
 ---
 
 ![A repeated pattern of small pandas!](/assets/images/2014-07-01-pandas_doing_stuff-1.jpg)

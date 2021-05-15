@@ -1,5 +1,15 @@
 ---
 title: Recently read
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- books
 ---
 
 Was reading a lot of books lately, so not a lot of articles. I hope to get back on that soon. 

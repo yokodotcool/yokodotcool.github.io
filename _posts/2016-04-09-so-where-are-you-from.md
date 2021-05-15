@@ -1,8 +1,18 @@
 ---
 title: So Where Are You From?
-tags: featured
----
 
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- projects
+
+tags:
+- so where are you from?
+- asian america
+- podcasts
+---
 
 > My friend and I were playing a game where we guess what you are.  
 _An actual pickup line Kate and I got while we were waiting to meet a friend celebrating their birthday at some bro-y rooftop bar._

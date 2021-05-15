@@ -1,5 +1,19 @@
 ---
 title: Portfolio is up
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- site
+
+tags:
+- 
+---
+
+---
+title: Portfolio is up
 ---
 
 ![Obligatory posterity screenshot so I can look at this years later and cringe](/assets/images/2014-08-10-yokois-porfolio-screen.jpg)

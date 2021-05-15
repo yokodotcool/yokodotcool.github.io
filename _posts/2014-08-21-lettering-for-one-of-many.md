@@ -1,5 +1,16 @@
 ---
 title: Lettering for One of Many
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- projects
+
+tags:
+- hand lettering
+- one of many
 ---
 
 ![One of Many](/assets/images/2014-08-21-one_of_many-screen.jpg)

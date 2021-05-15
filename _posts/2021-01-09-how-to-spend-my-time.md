@@ -1,9 +1,16 @@
 ---
 title: How to spend my time
+
+last_updated: 
+permalink: 
+published: true
+
 categories:
 - personal
+
 tags:
-- random thoughts
+- random
+- snapshots
 ---
 <figure>
 <img src="/assets/images/2021-01-09-long-hair.jpg" alt="Mirror selfie. I’m wearing a white sweatshirt. My hair is super long, and it’s coming down the front of my sweatshirt, maybe down to where the navel would be. I’m holding my phone with one hand, and holding up some of my hair with the other." />

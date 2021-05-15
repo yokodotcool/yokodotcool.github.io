@@ -1,5 +1,15 @@
 ---
 title: Recently read roundup
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- links
 ---
 
 Fell out of habit of using Instapaper, especially since [Oak](http://oak.is) launched [Gazette](http://gazette.io) and I’m still trying to figure out a way for me to easily archive all of the articles I’ve read and enjoyed.

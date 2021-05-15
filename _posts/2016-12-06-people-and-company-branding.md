@@ -1,6 +1,17 @@
 ---
 title: People & Company branding
-tags: featured
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- projects
+- featured
+
+tags:
+- people and company
+- branding
 ---
 
 <figure>

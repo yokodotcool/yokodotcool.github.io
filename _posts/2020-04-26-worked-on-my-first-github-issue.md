@@ -1,5 +1,15 @@
 ---
 title: Worked on my first Github issue!
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- site
+
+tags:
+- leet sh*t
 ---
 
 Lots of firsts today:

@@ -1,5 +1,15 @@
 ---
-title: Harbor Links Golf Course
+title: Harbor Links golf course
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- snapshots
 ---
 
 ![C.R.E.A.M.](/assets/images/2013-09-28-lilis-wedding.jpg)

@@ -1,6 +1,16 @@
 ---
-title: Yoko is reading to Ari, 2017
-permalink: "/reading-to-ari-2017"
+title: Reading to Ari, 2017
+
+last_updated: 
+permalink: "reading-to-ari-2017"
+published: true
+
+categories:
+- hidden
+
+tags:
+- audio
+- books
 ---
 
 <h1>Today</h1>

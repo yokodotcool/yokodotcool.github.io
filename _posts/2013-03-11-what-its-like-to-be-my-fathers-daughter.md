@@ -1,5 +1,16 @@
 ---
 title: What it’s like to be my father’s daughter
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- nao ohama
+- essays
 ---
 
 I have a lot of do — I’m moving at a snail’s pace behind a deadline but eff it. We’re going to get personal up in this.

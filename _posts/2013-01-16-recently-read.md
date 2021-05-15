@@ -1,5 +1,15 @@
 ---
 title: Recently read
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- links
 ---
 
 [A Ring of One’s Own](http://www.newyorker.com/reporting/2012/05/07/120507fa_fact_levy?printable=true)<br />

@@ -1,6 +1,16 @@
 ---
 title: Recently read
-date: 2013-02-26
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- links
+- quotes
 ---
 
 [The Pac-Man Dossier](http://home.comcast.net/~jpittman2/pacman/pacmandossier.html)  

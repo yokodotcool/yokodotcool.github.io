@@ -1,5 +1,17 @@
 ---
 title: Talking online
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- random
+- internet things
+- communications
 ---
 
 I recently joined two internet group chats (a Slack team with my high school friends, and a Discord server with my college friends), and Kev observed that I seemed really in my element interacting with them. I think it’s because there’s an asynchronous aspect to the communication. 

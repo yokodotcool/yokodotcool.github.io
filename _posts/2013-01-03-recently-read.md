@@ -1,5 +1,16 @@
 ---
 title: Recently read
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- links
+- books
 ---
 
 [John Quijada and Ithkuil, the Language He Invented](http://www.newyorker.com/reporting/2012/12/24/121224fa_fact_foer)<br />

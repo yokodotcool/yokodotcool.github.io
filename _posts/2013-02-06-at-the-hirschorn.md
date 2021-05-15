@@ -1,6 +1,17 @@
 ---
 title: At the Hirschorn
+
+last_updated: 
+permalink: 
 published: false
+
+categories:
+- personal
+
+tags:
+- washington dc
+- snapshots
+- splorin
 ---
 
 <!-- I can’t find the photos :( -->

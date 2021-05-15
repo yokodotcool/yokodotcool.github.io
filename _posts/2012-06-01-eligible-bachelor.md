@@ -1,5 +1,16 @@
 ---
 title: Eligible bachelor
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- projects
+
+tags:
+- t shirts
+- graphic design
 ---
 
 **![Eligible bachelor million dollar boat](/assets/images/2012-06-01-eligible_bachelor-1200x1000.jpg)**

@@ -1,5 +1,16 @@
 ---
 title: Behind the behind the scenes
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- quotes
+- books
 ---
 
 > They’re all hands that guide the stick that draws the line in the sand.

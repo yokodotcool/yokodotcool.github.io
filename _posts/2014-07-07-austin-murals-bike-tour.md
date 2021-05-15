@@ -1,5 +1,16 @@
 ---
 title: Austin murals bike tour
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- austin tx
+- splorin
 ---
 
 Kevin and I got back from a wedding + vacation in Austin a few days ago, and one of the biggest highlights of the trip for me was renting bikes. While we were there, we heard several recommendations to check out the murals around town, so on our last day, we charted out a map and hit them up. 

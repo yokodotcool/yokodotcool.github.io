@@ -1,5 +1,17 @@
 ---
 title: Playing to strengths
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- strengths
+- quizzes
+- shoutouts
 ---
 
 ![A hand-drawn diagram: A circle at the top that says “Wow, that was so hard. I was so bad” inside it. Under, there are two circles on either side: purple on the left, green on the right. Inside the purple circle, it says “I never want to do that again;” inside the green, “I want to get better.” There’s a purple arrow pointing to the purple circle labeled “Bad challenges” and a green arrow pointing to the green circle labeled “Good challenges.” ](/assets/images/2020-05-12-good-challenge-bad-challenge.jpg)

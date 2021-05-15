@@ -1,5 +1,17 @@
 ---
-title: Alcatraz + SF Splorin
+title: Alcatraz + SF splorin
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- san francisco
+- snapshots
+- splorin
 ---
 
 ![Photo of my feet on the floor of Alcatraz, the window pane casting a shadow](/assets/images/2014-10-17-alcatraz-feet.jpg)

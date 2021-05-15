@@ -1,6 +1,15 @@
 ---
 title: A new design???
+
 last_updated: 2019-12-25
+permalink: 
+published: true
+
+categories:
+- site
+
+tags:
+- leet sh*t
 ---
 
 Merry Christmas, I made a lot of progress on this???

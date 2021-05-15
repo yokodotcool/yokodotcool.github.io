@@ -1,5 +1,16 @@
 ---
 title: Recently read
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- links
+- books
 ---
 
 [Bossypants](http://www.amazon.com/gp/product/B0047Y0FGY/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0047Y0FGY&linkCode=as2&tag=yokois-20)  

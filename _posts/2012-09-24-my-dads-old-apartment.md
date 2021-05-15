@@ -1,5 +1,16 @@
 ---
 title: My dad’s old apartment
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- nao ohama
+- new york city
 ---
 
 You'd probably never guess because his English is not so great, but my dad has lived here for quite some time. This weekend, he told me about a different apartment in the UWS that he used to live in, in the 60's. He said lived in a tiny, tiny one bedroom behind Lincoln Center for *$36.40/month*. 

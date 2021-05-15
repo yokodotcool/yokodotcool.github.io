@@ -1,5 +1,17 @@
 ---
 title: Garbage cats
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- projects
+
+tags:
+- cats
+- photoshop
+- garbage
 ---
 
 May 29 2017

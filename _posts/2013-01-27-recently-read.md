@@ -1,5 +1,15 @@
 ---
 title: Recently read
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- links
 ---
 
 [Storytellers](http://www.outlookindia.com/article.aspx?283295)<br />

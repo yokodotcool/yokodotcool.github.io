@@ -1,5 +1,17 @@
 ---
 title: Stuff we made for our (cancelled) wedding
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- projects
+
+tags:
+- wedding
+- illustration
+- snapshots
 ---
 
 Not really going to dwell on the bummer-factor of us needing to cancel our wedding, but today was supposed to be the day! I wanted to memorialize this non-event by sharing the comms materials and whatnot we made for it, especially since some of them have yet to see the light of day.

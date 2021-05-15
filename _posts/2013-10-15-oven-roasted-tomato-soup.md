@@ -1,5 +1,16 @@
 ---
 title: Oven-roasted tomato soup
+
+last_updated: 
+permalink: 
+published: true
+
+categories:
+- personal
+
+tags:
+- cooking
+- snapshots
 ---
 
 <figure>
