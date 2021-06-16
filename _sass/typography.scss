@@ -22,7 +22,7 @@ p, ol, ul {
     margin-bottom: $line-height-regular;
 
     > li:not(:last-child) {
-        margin-bottom: $line-height-regular / 4;
+        margin-bottom: $line-height-regular / 2;
     }
 
 }
