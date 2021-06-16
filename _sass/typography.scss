@@ -19,6 +19,7 @@ article h1 {
 p, ol, ul {
     font-size: $text-size-01;
     line-height: $line-height-regular;
+    margin-bottom: $line-height-regular;
 
     > li:not(:last-child) {
         margin-bottom: $line-height-regular / 4;
