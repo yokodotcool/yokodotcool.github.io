@@ -16,6 +16,12 @@ layout: default
     {{ content }}
 
     <footer>
+        {% if page.categories contains "zine" %}
+        <p>
+            <small>A <a href="/zine">yoko.cool/zine</a> joint</small>
+        </p>
+        {% endif %}
+
         <ul class="list-inline">
             {% for tag in page.tags %}
             <li>
