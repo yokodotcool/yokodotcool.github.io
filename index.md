@@ -3,10 +3,10 @@ title: Welcome!
 permalink: "/"
 ---
 
-<span id="random-greeting"></span>, my name is Yoko. I like to dance, cook and eat, explore <a href="/nyc-guide">the city</a> and <a href="https://twitter.com/yokogoesplorin">the internet</a>, and make incremental changes to this website. Sometimes I make <a href="/zine">zines</a>. <a href="https://kiwimonk.com">My partner</a> and I have made <a href="http://overeasy.foundation">a project</a> out of using our money to contribute toward outcomes we care about. We live in the wonderful neighborhood of Sunset Park, Brooklyn. 
+<span id="random-greeting"></span>, my name is Yoko. I like to dance, cook and eat, explore [the city](/nyc-guide) and [the internet](https://twitter.com/yokogoesplorin), and make incremental changes to this website. Sometimes I make [zines](/zine). [My partner](https://kiwimonk.com) and I have made [a project](http://overeasy.foundation) out of using our money to contribute toward outcomes we care about. We live in the wonderful neighborhood of [Sunset Park](https://en.wikipedia.org/wiki/Sunset_Park,_Brooklyn) with our [cat]({% post_url 2021-10-06-we-have-adopted-a-cat %}). 
 
-My day job is at <a href="https://etsy.com">Etsy</a>. I’m a senior product designer on the shipping and fulfillment team. I enjoy talking about the work — the problems to solve, the cross-functional collaboration, the industries of UX design and e-commerce — and offer free coaching/mentoring sessions to diverse, underrepresented, prospective talent through <a href="https://www.get-merit.com/p/yoko-sakao-ohama">Merit</a>.
+I work at [Etsy](https://etsy.com), where I’m a senior product designer on the shipping and fulfillment team. I enjoy talking about my job! If you’re interested in entering the field, I offer free mentoring to diverse, underrepresented, prospective talent through [Merit](https://www.get-merit.com/p/yoko-sakao-ohama). Otherwise, [send me an email](mailto:ysohama+site@gmail.com) :) 
 
-If you’d like to get in touch, <a href="mailto:ysohama+site@gmail.com">send me an email</a>. 
+Thanks for stopping by! 
 
 <script type="text/javascript">insertGreeting();</script>
