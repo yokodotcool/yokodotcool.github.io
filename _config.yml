@@ -1,11 +1,12 @@
 ---
 # Every time I make changes to this file I need to restart Jekyll to see it take effect!
 
-title: yoko.cool
-timezone: America/New_York
+description: This is the personal website of Yoko Sakao Ohama.
 email: ysohama+site@gmail.com
-description: This is the personal website and portfolio of Yoko Sakao Ohama, a Brooklyn-based multidisciplinary designer.
 markdown: kramdown
+permalink: /:year-:month-:day-:title:output_ext
+timezone: America/New_York
+title: yoko.cool
 
 defaults:
   - scope:
