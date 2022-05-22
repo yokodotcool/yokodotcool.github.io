@@ -16,9 +16,9 @@ Merry Christmas, I made a lot of progress on this???
 
 I’m particularly proud of the layout of the site, which uses CSS grid, and _finally_ looks really close to something I had originally had in mind. I had attempted the layout using flexbox, but found that CSS grid helped me reach my goal faster:
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="psyoko" data-slug-hash="abzwBmP" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Site layout using grid">
-  <span>See the Pen <a href="https://codepen.io/psyoko/pen/abzwBmP">
-  Site layout using grid</a> by Yoko Sakao Ohama (<a href="https://codepen.io/psyoko">@psyoko</a>)
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="yokodotcool" data-slug-hash="abzwBmP" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Site layout using grid">
+  <span>See the Pen <a href="https://codepen.io/yokodotcool/pen/abzwBmP">
+  Site layout using grid</a> by Yoko Sakao Ohama (<a href="https://codepen.io/yokodotcool">@yokodotcool</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
