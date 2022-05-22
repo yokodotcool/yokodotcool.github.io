@@ -12,6 +12,7 @@ tags:
 - dance class video
 - shit kingz
 - urban dance camp
+- usher
 ---
 
 <figure>
