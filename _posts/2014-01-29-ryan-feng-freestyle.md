@@ -24,8 +24,10 @@ Feng is my favorite Quest member because of his ability to (1) freestyle and (2)
 
 [Watch video!](http://www.youtube.com/watch?v=Qo0TdFlPPsQ)
 
-<small>
-	It’s really worth checking out some of Quest’s unchoreographed performances. Quest was strong enough as a crew to win ABDC, but I think their biggest asset is that each member has a very distinct individual style, which they highlight when taking the stage one at a time. <a href="http://www.youtube.com/watch?v=fvonsmV_Iyo">Here is a great freestyle set</a> (5:43) including almost all of the members (at a high school graduation party), and <a href="http://www.youtube.com/watch?v=dn-7h2JRMIQ">here’s a bonus video</a> (1:54) of Feng freestyle-dancing to Dominic “D-Trix” Sandoval’s freestyle-beatboxing. 
-</small>
+Yoko
 
-— Yoko
+<section class="postscript">
+	<p>
+		It’s really worth checking out some of Quest’s unchoreographed performances. Quest was strong enough as a crew to win ABDC, but I think their biggest asset is that each member has a very distinct individual style, which they highlight when taking the stage one at a time. <a href="http://www.youtube.com/watch?v=fvonsmV_Iyo">Here is a great freestyle set</a> (5:43) including almost all of the members (at a high school graduation party), and <a href="http://www.youtube.com/watch?v=dn-7h2JRMIQ">here’s a bonus video</a> (1:54) of Feng freestyle-dancing to Dominic “D-Trix” Sandoval’s freestyle-beatboxing. 
+	</p>
+</section>

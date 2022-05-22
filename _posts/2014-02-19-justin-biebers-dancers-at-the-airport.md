@@ -24,3 +24,5 @@ This video is like that music video, except there’s no Justin but only his dan
 There is a difference between dancing and performing. I could be super critical about the mechanics of this video, but when I see how much fun it looks like they’re having, do I really care about the synchronicity, the blocking, or the steadiness of the camera? Nope. I challenge you to watch this without smiling. Good luck!
 
 [Watch video!](http://www.youtube.com/watch?v=JPLQxyj6PAY)
+
+Yoko

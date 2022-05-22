@@ -25,6 +25,8 @@ Fun fact: when I was a student at UCLA, I auditioned to be in NSU Modern. I didn
 
 [Watch video!](http://youtu.be/YetEowW5hi8)
 
-<small>
-	Also, in case you were curious, these were dance crews that won first, second, and third at Vibe XV: <a href="http://www.youtube.com/watch?v=BDVfop2BSZQ">Choreo Cookies (5:56)</a>, a great example of excellent synchronization; <a href="http://www.youtube.com/watch?v=Q-xmDvbIoRc">Common Ground (6:08)</a>, whose performance could have placed from the narrative alone; <a href="http://www.youtube.com/watch?v=0GMO-xhbq4E">Team Millennia (6:04)</a>, a slightly less hip hop-y, though still great, performance.
-</small>
+<section class="postscript">
+	<p>
+		Also, in case you were curious, these were dance crews that won first, second, and third at Vibe XV: <a href="http://www.youtube.com/watch?v=BDVfop2BSZQ">Choreo Cookies (5:56)</a>, a great example of excellent synchronization; <a href="http://www.youtube.com/watch?v=Q-xmDvbIoRc">Common Ground (6:08)</a>, whose performance could have placed from the narrative alone; <a href="http://www.youtube.com/watch?v=0GMO-xhbq4E">Team Millennia (6:04)</a>, a slightly less hip hop-y, though still great, performance.
+	</p>
+</section>

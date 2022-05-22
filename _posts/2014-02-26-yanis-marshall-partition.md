@@ -26,8 +26,10 @@ Did you notice that he’s the only person wearing heels in the entire room? Thi
 
 [Watch video!](http://www.youtube.com/watch?v=AY7fY0OS90w)
 
-<small>
-	What’s that? You want to see another video of him dancing in heels to a Beyoncé song? Here you go, <a href="http://www.youtube.com/watch?v=F-v3omXF_4I">Yanis teaching to “Diva”</a> (2:26) in an actual heels class. 
-</small>
+Yoko
 
-— Yoko
+<section class="postscript">
+	<p>
+		What’s that? You want to see another video of him dancing in heels to a Beyoncé song? Here you go, <a href="http://www.youtube.com/watch?v=F-v3omXF_4I">Yanis teaching to “Diva”</a> (2:26) in an actual heels class. 
+	</p>
+</section>

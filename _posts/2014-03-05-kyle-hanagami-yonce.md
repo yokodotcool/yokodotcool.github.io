@@ -29,4 +29,10 @@ Ah, whom am I kidding, trying to get all “dance-analytical” on you guys? It�
 
 [Watch video!](http://youtu.be/9TZYvud_ngY) Before it gets taken down again!
 
-<small>I also want to give a shoutout to Kyle’s choreographic range — [this video](http://www.youtube.com/watch?v=2NgVUsWJnJs) (4:51) to The Lumineers and One Republic is much less hip-hop. I don’t know much about contemporary dance styles, but I do know that it requires a difficult-to-achieve athletic combination of grace and strength, like ballet. This video is just too dang beautiful not to share, so you should watch this, too.</small>
+Yoko
+
+<section class="postscript">
+    <p>
+        I also want to give a shoutout to Kyle’s choreographic range — [this video](http://www.youtube.com/watch?v=2NgVUsWJnJs) (4:51) to The Lumineers and One Republic is much less hip-hop. I don’t know much about contemporary dance styles, but I do know that it requires a difficult-to-achieve athletic combination of grace and strength, like ballet. This video is just too dang beautiful not to share, so you should watch this, too.
+    </p>
+</section>

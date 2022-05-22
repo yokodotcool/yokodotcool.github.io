@@ -26,7 +26,10 @@ I am blown away by Dai’s range of movement. He twists and turns and the slow m
 
 [Watch video!](http://www.youtube.com/watch?v=CUgI-iy8rKY) Super props to [Bekka](https://twitter.com/bekkapalmer), who was involved in the creation of Dreamin’ and who also gave me a heads-up about its completion. Thanks B! Also props to [Jacob](http://twitter.com/jacobkrupnick) of [Wild Combination](http://wildcombination.com/), for producing such a wonderful piece.
 
-<small>
-	It is also imperative that you take the time to watch <a href="http://girlwalkallday.com/">Girl Walk // All Day</a>. You know when you hear about “dance movies” and you get really excited, but then you are disappointed to find that that 90% of the movie is not dancing but … movie stuff? Wait, is that just me? Anyway, GW // AD is not that; there is dancing throughout the film and it is extraordinary throughout. The entire film is available online, in easily digestible and incredibly addicting snippets. </small>
+<section class="postscript">
+	<p>
+		It is also imperative that you take the time to watch <a href="http://girlwalkallday.com/">Girl Walk // All Day</a>. You know when you hear about “dance movies” and you get really excited, but then you are disappointed to find that that 90% of the movie is not dancing but … movie stuff? Wait, is that just me? Anyway, GW // AD is not that; there is dancing throughout the film and it is extraordinary throughout. The entire film is available online, in easily digestible and incredibly addicting snippets.
+	</p>
+</section>
 
 Yoko
