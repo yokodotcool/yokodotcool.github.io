@@ -9,3 +9,13 @@ body {
 figure {
     margin: 0 0 1em 0;
 }
+
+img {
+    max-width: 100%;
+}
+
+/* Respect user preferences about animations */
+
+@media (prefers-reduced-motion: reduce) {
+    animation: none;
+}
