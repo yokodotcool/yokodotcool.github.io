@@ -5,29 +5,36 @@ layout: default
 <article>
     <header>
         <h1>{{ page.title }}</h1>
-        <p class="text-body-small text-light-gray">
-            Published {{ page.date | date: "%b %d %Y" }}
-            {% if page.last_updated %}
-                • Last updated {{ page.last_updated | date: "%b %d %Y" }}
-            {% endif %}
-        </p>
     </header>
 
-    {{ content }}
+    <section>
+        {{ content }}
+    </section>
 
     <footer>
-        {% if page.categories contains "zine" %}
-        <p>
-            <small>A <a href="/zine">yoko.cool/zine</a> joint</small>
-        </p>
-        {% endif %}
+        <dl>
+            <div>
+                <dt>Published</dt>
+                <dd>
+                    {{ page.date | date: "%b %d %Y" }}
+                    {% if page.last_updated %}
+                        <br>
+                        <small>Last updated {{ page.last_updated | date: "%b %d %Y" }}</small>
+                    {% endif %}
+                </dd>
+            </div>
 
-        <ul class="list-inline">
-            {% for tag in page.tags %}
-            <li>
-                <small><span class="badge">{{ tag }}</span></small>
-            </li>
-            {% endfor %}
-        </ul>
+            <div>
+                <dt>Categories</dt>
+                {% for category in page.categories %}
+                    <dd>{{ category }}</dd>
+                {% endfor %}
+
+                <dt>Tags</dt>
+                {% for tag in page.tags %}
+                    <dd>{{ tag }}</dd>
+                {% endfor %}
+            </div>
+        </dl>        
     </footer>
 </article>
