@@ -12,22 +12,23 @@ tags:
 - doot
 ---
 
-
 Bầu trời trong xanh thăm thẳm, không một gợn mây.
 Almost before we knew it, we had left the ground.
 ニューヨーク市のアッパー・ウエスト・サイドで生まれ育ち、現在はブルックリンのサンセット・パークに住んでいます。
 
 `“Welcome to our village wee one,” Prime Minister Jacinda Ardern posted on Instagram.`
 
-# H1 - Defaults to 2em but 1.5em in `<article>`: The Week in Good News 
+Sometimes it seems as if we’re living under a constant barrage of *heavy news*. But it isn’t all bad out there. This feature is meant to send you into the weekend **with a smile**, or at least a lighter heart. 
 
-Sometimes it seems as if we’re living under a constant barrage of heavy news. But it isn’t all bad out there. This feature is meant to send you into the weekend with a smile, or at least a lighter heart. 
+# H1s default to 2em, but sometimes they default to 1.5em
 
-## H2 - 1.5em: A “forest masterpiece” in Yosemite National Park is back on display.
+It defaults to 1.5em when the H1 is inside a `article`, `aside`, `nav`, or `section`. At least, with Chrome it does :x
 
-A collection of around 500 mature giant sequoias, some of the oldest living things in the world, is open to visitors again after the largest restoration project in Yosemite’s history.
+## H2 - Defaults to 1.5em. 
 
-### H3 - 1.17em: New Zealand’s prime minister became the first world leader in almost three decades to give birth while in office.
+A collection of around 500 mature giant sequoias, some of the oldest living things in the world, is open to visitors again after the largest restoration project in Yosemite’s history. <mark>And this is what a highlight looks like.</mark>
+
+### H3 New Zealand’s prime minister became the first world leader in almost three decades to give birth while in office.
 
 “Welcome to our village wee one,” Prime Minister Jacinda Ardern posted on Instagram.
 
