@@ -1,23 +1,7 @@
-<!DOCTYPE html>
-<html>
+{% include header.html %}
 
-    <head>
-        <meta charset="utf-8">
-        <title>{{ page.title }}</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-        {% feed_meta %}
-        {% seo %}
-
-        <link rel="shortcut icon" href="/favicon.ico" />
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p&family=Work+Sans&display=swap" rel="stylesheet">
-        
-        <script type="text/javascript" src="/assets/js/base.js" ></script>
-        <meta name="viewport" content="width=device-width,initial-scale=1">
-    </head>
-
-    <body class="content-wrapper">
-        <div class="header-panda">
+    <body class="grid-wrapper">
+        <div class="grid-header-panda">
             <!-- Random panda -->
             <a href="/"><img id="header-panda" alt="Randomly generated drawing of a panda"/></a>
 
@@ -25,25 +9,15 @@
             insertPanda(); 
             </script>
         </div>
+        <div class="grid-header-nav"></div>
 
-        <nav class="header-nav">
-        </nav>
-
-        <main class="main-content">
+        <main class="grid-main">
             {{ content }}
         </main>
 
-        <footer class="footer">
-            {% if page.name == "about.md" %}
-            <div class="marqueeeee">
-                <p class="marqueeeee-inner">
-                    <span>🚧 This site is <em>always</em> under construction. 🚧</span>
-                    <span aria-hidden="true">🚧 This site is <em>always</em> under construction. 🚧</span>
-                </p>
-            </div>
-            {% endif %}
-            <div class="footer-content">
-                <p class="text-body-small">
+        <footer class="grid-footer">
+            <div class="grid-footer-content">
+                <p>
                     Yoko Sakao Ohama (she/her) makes this site with <a href="https://jekyllrb.com">Jekyll</a> and runs it on <a href="https://github.com/yokodotcool/yokodotcool.github.io">Github Pages</a>.
                 </p>
             </div>
