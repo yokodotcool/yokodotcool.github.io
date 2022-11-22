@@ -1,7 +1,7 @@
 ---
 title: Yoko’s guide to NYC
 
-last_updated: 2021-06-13
+last_updated: 2022-11-23
 permalink: "nyc-guide"
 published: true
 
@@ -15,7 +15,7 @@ tags:
 
 Hello! This is a page I made a while back as a way for me to easily provide recommendations for folks visiting NYC. I’m biased of course, but I think NYC is one the most amazing cities in the whole wide world, a cultural capital, and an essential visit to any traveler. You’ll find plenty to do here—so much in fact, that you’ll likely have to come back another time.
 
-# Big ol’ map
+## Big ol’ map
 
 A big annotated Google Map that I update every once in a while. You can also view the map in its native goodness [here](https://drive.google.com/open?id=16FX4JH13RlT1lB_o1_keDbCWHG0&usp=sharing).
 
@@ -23,38 +23,36 @@ A big annotated Google Map that I update every once in a while. You can also vie
 
 ## Dance studios
 
-I’ve been taking hip-hop and street dance classes in the city for nearly a decade (holy crap), and recently have been branching out and trying different genres and studios. Here’s a list of a few places that I’ve taken classes at:
+I’ve been taking dance classes in the NYC for over a decade(!) for fun and fitness. My usual pattern of dance class-ing involves finding an instructure who I like, and then trying to take classes wherever they teach. Some of my consistently favorite instructors have been [Eric Jenkins](https://instagram.com/ericj616), [Bo Belza](https://www.instagram.com/b0seff), and [Stacie Webster](https://www.instagram.com/websterstacie).
+
+I'm interested in trying more studios, and also in trying some new genres like house and gaga! If you have suggestions for a class, I'd love to hear it!
 
 ### [Broadway Dance Center](https://broadwaydancecenter.com)
 
 One of the premier locations for dance classes spanning a huge range of disciplines—ballet, street styles, contemporary, Broadway, etc. They have professional, pre-professional, and visa programs, but nearly all of their classes are walk-in. Beginner-level classes at BDC are probably a little more challenging than beginner-level classes at most other studios. The studio is strict about taking video; always ask the instructor first.
 
-I’ve been taking [Eric Jenkins](http://broadwaydancecenter.com/faculty/eric-jenkins) for years, and I broke into contemporary dance with [Stacie Webster](http://broadwaydancecenter.com/faculty/stacie-webster)—both are incredible teachers, and I highly recommend them! 
+If you’re new to dance or trying a new genre, BDC also has a great [Absolute Beginner Workshop](http://broadwaydancecenter.com/workshop/absolute-beginner-workshops) program. This is how I first started taking contemporary dance classes!
 
-If you’re new to dance or trying a new genre, BDC also has a great [Absolute Beginner Workshop](http://broadwaydancecenter.com/workshop/absolute-beginner-workshops) program :) 
 
-### [House of Movement](http://www.houseofmovementny.com/)
+### [Peridance](https://www.peridance.com)
 
-House of Movement operates out of Pearl Studios, and it’s a small but well-run operation. Many of the faculty are also in a competitive crew together (in addition to whatever their day job is), so there’s a bit of that Youtube dance scene vibe. HoM is a bit more relaxed—more friendly to true dance beginners—and faculty seem to be pretty chill/encouraging of folks taking video and posting it. 
+Another great studio similar to BDC, teaching classes from a wide range of genres (maybe even wider than BDC tbh), just a little bit smaller (fewer rooms). One of the rooms has a high vaulted ceiling with windows, and it's really fun to dance in.
 
-I’ve found that I really love [Bo Belza](https://instagram.com/b0seff)’s teaching style and music taste—he usually only teaches intermediate level classes, so it’s a bit of a challenge (once in a blue moon he’ll teach a beginner class and it’s really really popular). 
+### [Modega](https://linktr.ee/moversbodega)
 
-### [Liberated Movement](http://liberatedmovement.com/)
-
-A donation-based, judgment-free-zone dance studio. I’ve only taken a couple classes here—some good friends I’ve met while dancing teach or sub here (take Janine’s class!)—but I enjoy the friendly, sincere atmosphere.
+New studio opened up in #Queens! Has a bit of that indie fresh newness and they seem to be pulling in some upcoming local (NYC/NJ) talent as instructors. Mostly street-styles and choreography classes, and I think they've also had some free-form social events.
 
 ## Reliably Delicious Food Establishments with Multiple Locations
 
-When you’re out and about in the City, chances are you’re not going to be within walking distance of the Most Delicious Pizza Slice in NYC; however, it might be more likely that you’re close to one of these places. 
-
+This list is more about the local-ish chains for when you're exploring the city and need to grab a quick bite without making a huge trek. For individual recos, def check out the map above. 
 
 ### Shake Shack [(Locations)](https://www.shakeshack.com/locations/)
 
-I would take a Shake Shack burger over In-N-Out any day, and I’m not sorry. Be on the lookout for location-specific menu items (e.g., a fried chicken burger that used to be sold only in Brooklyn). If you’re on the fence about getting the fries, get the fries.
+I would take a Shake Shack burger over In-N-Out any day, and I’m not sorry. Be on the lookout for location-specific menu items (e.g., a fried chicken burger that used to be sold only in Brooklyn). If you’re on the fence about getting the crinkle cut fries, get the fries.
 
 ### The Grey Dog [(Locations)](https://thegreydog.com/locations-hours/)
 
-Solid lunch spot with a great neighborhood vibe. Their chicken soup with meatballs is so damn good. Order and pay at the counter, and someone will bring the food to your table (during busy hours, they also will hold tables for you while you’re waiting to order).
+Solid lunch spot with a great neighborhood vibe. Their chicken soup with meatballs is so damn good! Order and pay at the counter, and someone will bring the food to your table (during busy hours, they also will hold tables for you while you’re waiting to order).
 
 ### sweetgreen [(Locations)](http://www.sweetgreen.com/locations/)
 
