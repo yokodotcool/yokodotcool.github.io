@@ -1,301 +1,166 @@
-@import "variables";
-
-// Theme styles
-//
-//
-
-.header-panda img { width: 72px; }
-
-.list-inline {
-    padding: 0;
-    
-    li { display: inline; }
-    li+li:before { content: " • ";}
-}
-
-body > footer { 
-  background-color: $bg-light-gray; 
-  padding: 30px 0px; 
-}
-
-// Theme styles - Specific to <main> content
-//
-//
-
-main {
-    blockquote {
-        border-left: 3px solid $bg-gray;
-        margin-left: 1em;
-        padding-left: 1em;
+// Default text & background colors
+$color-default-fg: #f8f8ff;
+$color-default-bg: #18181B; 
+// Contrast colors are meant for adding a little bit of visible contrast against the defaults. Should still be accessible tho
+$color-contrast-fg: #ffe0ff; 
+$color-contrast-bg: #202024; 
+// Accent colors are for significant contrast against defaults.
+$color-accent-fg: #ffb8c0; 
+$color-accent-bg: #906000;
+$type-family-sans: 'Trebuchet MS', sans-serif;
+$type-family-serif: 'Times New Roman', serif;
+$type-family-mono: monospace;
+$type-family-lmao: cursive; // For s&g's
+$type-lh-base: 1.5em;
+$type-lh-tight: 1.2em;
+$type-size-base: 24px; // In smallest viewports this becomes 18px (75%)
+$type-size-small: 18px; 
+body {
+    background-color: $color-default-bg;
+    color: $color-default-fg;
+    font-family: $type-family-sans;
+    font-size: $type-size-base;
+    h1 {
+        color: $color-accent-fg;
+        font-family: $type-family-serif; 
+        font-size: 2.5em;
+        font-style: italic;
+        font-weight: 400;
+        line-height: $type-lh-tight;
+    }
+    h2, h3, h4, h5, h6 {
+        color: $color-contrast-fg;
+        font-family: $type-family-serif; 
+        font-style: italic;
+        line-height: $type-lh-tight;
+    }
+    p, ol, ul, dl {
+        color: $color-default-fg;
+        line-height: $type-lh-base;
+    }
+    a {
+        color: inherit;
+    }
+    code {
+        background-color: $color-contrast-bg;
+        color: $color-contrast-fg;
+    }
+    figcaption {
+        font-size: $type-size-small;
+    }
+    mark {
+        background-color: $color-accent-bg;
+        color: $color-default-fg;
+    }
+    > nav {
+        font-size: $type-size-small;
+        line-height: $type-lh-tight;
+    }
+    > footer {
+        background-color: $color-contrast-bg;
+        
         p {
-          color: $fg-light-gray;
-          font-style: italic;
-          padding-top: .15em;
-          padding-bottom: .15em;
+            font-family: $type-family-serif;
+            font-size: $type-size-small;
+            font-style: italic;
         }
     }
-
-    img { 
-        box-shadow: 0px 0px 1em $bg-gray;
-        max-width: 100%; 
-    }
-
-    p, ol, ul:not(.slideshow) {
-        max-width: 600px;
-    }
-
-    .badge {
-        background-color: $bg-light-gray; 
-        border: 1px solid $bg-gray;
-        border-radius: 3px;
-        font-size: $text-size-00;
-        padding: 0 4px;
-        white-space: nowrap;
-    }
-
-    .borderless {
-        border: 0;
-        box-shadow: none;
-    }
-
 }
-
-// Theme typography styles
-// Use sparingly, especially in posts
+article > footer {
+    background-color: $color-contrast-bg;
+    padding: 1em; 
+    border-radius: .5em; 
+    dl {
+        margin: 0; 
+        display: flex;
+        > div {
+            flex: 1 0 auto;
+        }
+        dt {
+            font-size: $type-size-small;
+            color: $color-accent-fg;
+        }
+        dd {
+            font-size: $type-size-small;
+            margin-left: 0;
+        }
+    }
+}
+@media all and (max-width: 800px) {
+    body {
+        font-size: $type-size-base * .75;
+    }
+}
+//  GRID
+//  
 //
-
-.text-body-small { font-size: $text-size-00; }
-.text-body-base { font-size: $text-size-01; }
-.text-body-larger { font-size: $text-size-02; }
-.text-body-largest { font-size: $text-size-03; }
-.text-full-width { max-width: 100%; }
-
-// CSS grid layout magic
-//
-//
-
-.header-panda,
-.header-nav,
-.main-content {
-    padding: 18px;
+.grid-wrapper {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: min-content auto min-content;
+    grid-template-areas:
+        "grid-header-panda grid-header-nav"
+        "grid-main grid-main"
+        "grid-footer grid-footer"
 }
-
-.footer-content {
-  padding: 0 18px; 
+.grid-header-panda { 
+    grid-area: grid-header-panda; 
+    padding: 1em 1em 0;
 }
-
-.header-panda { grid-area: header-panda; }
-.header-nav { grid-area: header-nav; text-align: right; }
-.main-content { grid-area: main-content; }
-.footer { grid-area: footer; }
-
-.content-wrapper {
-  display: grid;
-  height: 100vh;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: min-content auto min-content;
-  grid-template-areas:
-    "header-panda header-nav"
-    "main-content main-content"
-    "footer footer"
+.grid-header-nav { 
+    grid-area: grid-header-nav; 
+    text-align: right; 
+    padding: 1em 1em 0; 
 }
-
+.grid-main { 
+    grid-area: grid-main; 
+    padding: 1em 1em 2em;
+}
+.grid-footer { 
+    grid-area: grid-footer; 
+}
+.grid-footer-content {
+    padding: 1em;
+}
 @media all and (min-width: 800px) {
-  .content-wrapper {
-    grid-template-columns: 1fr 2fr 2fr 1fr;
-    grid-template-areas:
-      "header-panda header-panda header-nav header-nav"
-      ". main-content main-content ."
-      "footer footer footer footer"
+    .grid-wrapper {
+        grid-template-columns: 1fr 2fr 2fr 1fr;
+        grid-template-areas:
+            ". grid-header-panda grid-header-nav ."
+            ". grid-main grid-main ."
+            "grid-footer grid-footer grid-footer grid-footer"
     }
-  
-  .footer-content {
-    margin-left: auto;
-    margin-right: auto;
-    width: 66.67%; // Combined width of the two middle columns
-  }
+    .grid-footer-content {
+        margin-left: auto;
+        margin-right: auto;
+        width: 66.67%; // Combined width of the two middle columns
+    }
 }
-
 @media all and (min-width: 1200px) {
-  .content-wrapper {
-    grid-template-columns: auto 200px 400px 400px 200px auto;
-    grid-template-areas:
-      ". header-panda main-content main-content header-nav ."
-      ". . main-content main-content . ."
-      "footer footer footer footer footer footer"
-  }
-
-  main header {
-    margin-bottom: 60px;
-  }
-
-  header nav ul li {
-    margin-top: 18px;
-  }
-
-  .footer-content {
-    width: 800px; // Combined width of the two middle columns
-  }
-}
-
-// Fancy golden hover style
-// https://codepen.io/yokodotcool/pen/ExZBMeP
-//
-
-.fancy {
-    margin: -.375em;
-    padding: .375em;
-
-    &:hover {
-    background: linear-gradient(135deg, #C3AA79, #fec, #C3AA79, #fec,);
-    background-size: 300% 300%;
-    color: #222;
-
-    -webkit-animation: GradientCycle 1s infinite linear;
-    -moz-animation: GradientCycle 1s infinite linear;
-    animation: GradientCycle 1s infinite linear;
-        
+    .grid-wrapper {
+        grid-template-columns: auto 200px 400px 400px 200px auto;
+        grid-template-areas:
+            ". grid-header-panda grid-main grid-main grid-header-nav ."
+            ". . grid-main grid-main . ."
+            "grid-footer grid-footer grid-footer grid-footer grid-footer grid-footer"
+    }
+    .grid-main {
+        padding: 1.5em 1em; 
+    }
+    .grid-footer-content {
+        width: 800px; // Combined width of the two middle columns
     }
 }
-
-@-webkit-keyframes GradientCycle {
-    0%{background-position:0 0}
-    100%{background-position:100% 100%}
+h1 {
+    margin-top: 0;
 }
-
-@-moz-keyframes GradientCycle {
-    0%{background-position:0 0}
-    100%{background-position:100% 100%}
-}
-
-@keyframes GradientCycle {
-    0%{background-position:0 0}
-    100%{background-position:100% 100%}
-}
-
-// Post slideshow v1
-// https://codepen.io/yokodotcool/pen/RwWOQab
+//  PANDA <3
 //
-
-.slideshow {
-    border: 1px solid $bg-gray;
-    display: flex;
-    overflow-x: scroll;
-    scroll-snap-type: x mandatory;
-    -webkit-overflow-scrolling: touch;
-    scroll-behavior: smooth;
-    
-    /*  These are for formatting the ul */
-    padding: 0px;
-    margin: 0px;
-    list-style-type: none;
-}
-
-.slide {
-    display: flex;
-    flex-shrink: 0;
-    justify-content: center;
-    width: 100%;
-    scroll-snap-align: start;
-}
-
-
-// 404 cat-top styles
-// Make it float, align it so
 //
-
-#cat-top-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-#cat-top {
-  animation-name: cat-top;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-}
-
-#cat-top-shadow {
-  animation-name: cat-top-shadow;
-  animation-duration: 4s; 
-  animation-iteration-count: infinite;
-  background-color: #222;
-  width: 100px;
-  height: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 100px / 50px;
-}
-
-@keyframes cat-top {
-  0% { 
-    transform: translate(0, 0);
-  }
-  35% { 
-    transform: translate(0, -12px);
-    animation-timing-function: cubic-bezier(0.25, 1, 0.5, 1);
-  }
-  100% { 
-    transform: translate(0, 0);
-    animation-timing-function: cubic-bezier(0.25, 1, 0.5, 1);
-  }
-}
-
-@keyframes cat-top-shadow {
-  0% {
-    filter: blur(10px);
-    opacity: .25;
-  }
-  35% {
-    filter: blur(15px);
-    opacity: .15;
-    transform: scale(1.3);
-  }
-  100% {
-    filter: blur(10px);
-    opacity: .25;
-  }
-}
-
-// Marqueeeee
-// 
-//
-
-.marqueeeee {
-    align-items: center;
-    background-color: $bg-gold;
-    display: flex;
-    height: 2.5rem;
-    overflow: hidden;
-    position: relative;
-    width: 100%;
-}
-
-.marqueeeee-inner {
-    display: block;
-    font-family: $lmao-font;
-    height: 2rem;
-    margin: .25rem 0;
-    overflow: hidden;
-    position: absolute;
-    width: 200%;
-
-    animation: marqueeeee 15s linear infinite;
-}
-
-.marqueeeee span {
-    float: left;
-    width: 50%;
-}
-
-@keyframes marqueeeee {
-    0% { left: 0; }
-    100% { left: -100%; }
-}
-
-/* Respect user preferences about animations */
-
-@media (prefers-reduced-motion: reduce) {
-    animation: none;
+.grid-header-panda img { 
+    -webkit-filter: drop-shadow(0px 0px .5em $color-accent-bg);
+    filter: drop-shadow(0px 0px .5em $color-accent-bg);
+    margin-left: -1em;
+    width: 4em; 
 }
