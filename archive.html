@@ -2,19 +2,7 @@
 title: Site archive
 ---
 
-<!--
-<h2>Featured stuff</h2>
-
- <ul>
-    {% for post in site.posts %}
-        {% if post.tags contains 'featured' %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.tags contains 'ongoing' %} <span class="badge">ongoing</span>{% endif %}</li>
-        {% endif %}
-    {% endfor %}
-</ul>
- -->
-
-<h3>Categories</h3>
+<h2>Categories</h2>
 <p>Broad topics that I cover in my content. Categories span altitudes and don't have to be mutually exclusive; for example, a post that I use as part of my portfolio could be considered a <code>project</code> that is <code>featured</code>.</p>
 <ul>
 {% for category in site.categories %}
@@ -22,7 +10,7 @@ title: Site archive
 {% endfor %}
 </ul>
 
-<h3>Tags</h3>
+<h2>Tags</h2>
 <p>Tags are basically like ... I dunno, if I could only to search through posts using tags (and not the content of the post) what would I want to make sure is captured?</p>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless
@@ -36,32 +24,30 @@ forloop.last %},{% endunless %}{% endfor %}{% endcapture %} {% assign tags_list
     {% endunless %}{% endfor %}
 </ul>
 
-<h3>Posts</h3>
+<h2>Posts</h2>
 <p>
-    A list of all of the content I’ve ever put on a personal website, or wanted to put on a personal website. Much of it is old, empty, broken, embarrassing stuff. Sometimes I’ll add stuff, sometimes I might take stuff down :shrug: I do what I want!
+    A list of all of the content I’ve ever put on this website. Much of it is old, empty, broken, unfinished, embarrassing stuff. Sometimes I’ll add stuff, sometimes I might take stuff down :shrug: I do what I want!
 </p>
 
-<ul>
-    {% for post in site.posts %}
-        <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
+<!-- Thank u https://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year -->
+{% for post in site.posts  %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
-            {% assign last_updated_epoch = post.last_updated | date: "%s" %}
-            {% assign month_ago_epoch = "now" | date: "%s" | minus: 2592000 | date: "%s" %}
-            {% assign post_date_string = post.date | date: "%s" %}
+    {% if forloop.first %}
+    <h3 id="{{ this_year }}-ref">{{this_year}}</h3>
+    <ul>
+    {% endif %}
 
-<!--             {% if month_ago_epoch < post_date_string %}
-                <span class="badge">new</span>
-            {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 
-            {% if month_ago_epoch < last_updated_epoch %}
-                <span class="badge">recently updated</span>
-            {% endif %}
- -->
-            {% if post.tags contains 'ongoing' %}
-                <span class="badge">ongoing</span>
-            {% endif %}
-
-        </li>
-    {% endfor %}
-</ul>
+    {% if forloop.last %}
+    </ul>
+    {% else %}
+        {% if this_year != next_year %}
+        </ul>
+        <h3 id="{{ next_year }}-ref">{{next_year}}</h3>
+        <ul>
+        {% endif %}
+    {% endif %}
+{% endfor %}
