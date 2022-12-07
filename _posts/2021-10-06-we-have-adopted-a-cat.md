@@ -5,6 +5,7 @@ published: true
 
 categories:
 - personal
+- recent
 
 tags:
 - soleil
