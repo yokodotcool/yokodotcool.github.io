@@ -1,12 +1,14 @@
+// COLORS
 // Default text & background colors
+// Contrast colors are meant for adding a little bit of visible contrast against the defaults. Should still be accessible tho
+// Accent colors are for significant contrast against defaults.
 $color-default-fg: #f8f8ff;
 $color-default-bg: #18181B; 
-// Contrast colors are meant for adding a little bit of visible contrast against the defaults. Should still be accessible tho
 $color-contrast-fg: #ffe0ff; 
 $color-contrast-bg: #202024; 
-// Accent colors are for significant contrast against defaults.
 $color-accent-fg: #ffb8c0; 
 $color-accent-bg: #906000;
+// TYPOGRAPHY
 $type-family-sans: 'Trebuchet MS', sans-serif;
 $type-family-serif: 'Times New Roman', serif;
 $type-family-mono: monospace;
