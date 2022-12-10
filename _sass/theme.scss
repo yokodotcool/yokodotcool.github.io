@@ -15,6 +15,9 @@ $type-lh-base: 1.5em;
 $type-lh-tight: 1.2em;
 $type-size-base: 24px; // In smallest viewports this becomes 18px (75%)
 $type-size-small: 18px; 
+// BORDER-RADIUS
+$border-radius-big: 0.5em;
+// $border-radius-small: 0.25em;
 body {
     background-color: $color-default-bg;
     color: $color-default-fg;
@@ -41,12 +44,28 @@ body {
     a {
         color: inherit;
     }
+    aside {
+        background-color: $color-contrast-bg;
+        border-radius: $border-radius-big;
+        margin-left: 3em;
+        padding: 0.25em 1em;
+        
+        > p {
+            color: $color-contrast-fg;
+            font-family: $type-family-serif;
+            font-size: $type-size-small;
+            font-style: italic;
+        }
+    }
     code {
         background-color: $color-contrast-bg;
         color: $color-contrast-fg;
     }
     figcaption {
         font-size: $type-size-small;
+    }
+    li:not(last-child) {
+        margin-bottom: .5em;
     }
     mark {
         background-color: $color-accent-bg;
@@ -69,7 +88,7 @@ body {
 article > footer {
     background-color: $color-contrast-bg;
     padding: 1em; 
-    border-radius: .5em; 
+    border-radius: $border-radius-big;
     dl {
         margin: 0; 
         display: flex;

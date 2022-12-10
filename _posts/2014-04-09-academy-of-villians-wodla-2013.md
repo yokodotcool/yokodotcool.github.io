@@ -15,7 +15,7 @@ tags:
 ---
 
 <figure>
-	<img src="/assets/images/2014-04-09-academy_of_villains.jpg" alt="A still from a Youtube video of the Academy of Villains dance crew performing at World of Dance LA" />
+	<a href="https://www.youtube.com/watch?v=k79XsIKEf_E"><img src="/assets/images/2014-04-09-academy_of_villains.jpg" alt="A still from a Youtube video of the Academy of Villains dance crew performing at World of Dance LA" /></a>
 </figure>
 
 
