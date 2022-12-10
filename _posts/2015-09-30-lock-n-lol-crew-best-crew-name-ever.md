@@ -14,7 +14,9 @@ tags:
 
 ---
 
-[![Lock N Lol crew on stage, getting some serious air](/assets/images/2015-09-30-lock-n-lol-hhi-2015-optimized.gif)](https://youtu.be/qTX6TJGFanQ)
+<figure>
+	<a href="https://youtu.be/qTX6TJGFanQ"><img src="/assets/images/2015-09-30-lock-n-lol-hhi-2015-optimized.gif" alt="Lock N Lol crew on stage, getting some serious air" /></a>
+</figure>
 
 I’m no expert at [locking](https://en.wikipedia.org/wiki/Locking_(dance)), but I know that it’s HARD. Super hard. It’s technically and athletically challenging, and (many would argue) the moves that distinguish the dance from other funk styles are VERY specific. And it’s especially hard because, probably more than any other urban dance, locking is about making those moves look effortless.
 

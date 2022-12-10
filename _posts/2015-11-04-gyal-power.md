@@ -13,7 +13,9 @@ tags:
 - kalash
 ---
 
-[![A GIF of Parris Goebel doing a chest pump, surrounded by dancers](/assets/images/2015-11-04-parris-goebel-independent-gyal-optimized.gif)](https://www.youtube.com/watch?v=faTOUeZP2rM)
+<figure>
+	<a href="https://www.youtube.com/watch?v=faTOUeZP2rM"><img src="/assets/images/2015-11-04-parris-goebel-independent-gyal-optimized.gif" alt="A GIF of Parris Goebel doing a chest pump, surrounded by dancers" /></a>
+</figure>
 
 I’ve been thinking a lot lately about what it means to be both strong and a woman. Currently my takeaway is: strength is manifested in a myriad ways as is femininity, and there is no shortage of combinations of the two that are inspiring, empowering, and beautiful.
 

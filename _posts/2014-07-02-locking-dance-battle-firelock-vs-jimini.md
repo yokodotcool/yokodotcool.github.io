@@ -14,7 +14,9 @@ tags:
 
 ---
 
-[![Firelock and Jimini face off on stage](/assets/images/2014-07-02-firelock_jimini_battle.jpg)](https://www.youtube.com/watch?v=zkg_y2XUIfA)
+<figure>
+	<a href="https://www.youtube.com/watch?v=zkg_y2XUIfA"><img src="/assets/images/2014-07-02-firelock_jimini_battle.jpeg" alt="Firelock and Jimini face off on stage" /></a>
+</figure>
 
 Locking is a funk-style street dance characterized by (1) quick movements tightly synced with music, interspersed with (2) “locking” in specific conditions. In some ways, it’s like the older brother to [waacking]({% post_url 2014-04-02-princess-lockeroo %}) with a more lighthearted, James Brown-y flavor.
 

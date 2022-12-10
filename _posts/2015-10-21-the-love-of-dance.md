@@ -15,7 +15,9 @@ tags:
 
 ---
 
-[![Shaun doing the jack WITH FEELING](/assets/images/2015-10-20-shaun-evaristo-treat-me-like-fire-optimized.gif)](https://www.youtube.com/watch?v=NraARjfTGlk)
+<figure>
+	<a href="https://www.youtube.com/watch?v=NraARjfTGlk"><img src="/assets/images/2015-10-20-shaun-evaristo-treat-me-like-fire-optimized.gif" alt="Shaun doing the jack WITH FEELING" /></a>
+</figure>
 
 Shaun Evaristo has been on the scene since the inception of video sharing. He toured with Justin Bieber during Justin’s “crazy days” (and [danced in the airport]({% post_url 2014-02-19-justin-biebers-dancers-at-the-airport %}) when his tour flight got cancelled—black sweatshirt, hat with the brim to the side). He founded [Movement Lifestyle](http://www.themovementlifestyle.com/), a dance company that manages talent, studios, and fosters a community of dancers in LA and around the world. And he still finds time to create and share his art. He is a legend.
 

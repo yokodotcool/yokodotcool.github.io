@@ -13,7 +13,9 @@ tags:
 
 ---
 
-[![Omg no! Too sexy!](/assets/images/2015-09-23-kyle-hanagami-trini-dem-girls-optimized.gif)](https://www.youtube.com/watch?v=CcI4qRxvQZ4)
+<figure>
+	<a href="https://www.youtube.com/watch?v=CcI4qRxvQZ4"><img src="/assets/images/2015-09-23-kyle-hanagami-trini-dem-girls-optimized.gif" alt="Omg no! Too sexy!" /></a>
+</figure>
 
 In case you were wondering, [Kyle Hanagami is back](http://us3.campaign-archive2.com/?u=896d790578b2a99d6a42c4cb7&id=772bc60294), and he is back with an effing BANG.
 

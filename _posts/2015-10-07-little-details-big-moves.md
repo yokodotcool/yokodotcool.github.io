@@ -14,7 +14,9 @@ tags:
 
 ---
 
-[![Laurent and Larry being the coolest goofs](/assets/images/2015-10-06-les-twins-pull-up-optimized.gif)](https://www.youtube.com/watch?v=4kcDmKCK--o)
+<figure>
+	<a href="https://www.youtube.com/watch?v=4kcDmKCK--o"><img src="/assets/images/2015-10-06-les-twins-pull-up-optimized.gif" alt="Laurent and Larry being the coolest goofs" /></a>
+</figure>
 
 Surely you’ve heard of Les Twins? The French brothers (yes, twins) Laurent and Larry Bourgeois who reached the upper echelons of commercial dance by touring with Beyoncé last year? Anyway …
 
