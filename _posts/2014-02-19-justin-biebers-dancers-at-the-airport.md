@@ -14,7 +14,7 @@ tags:
 ---
 
 <figure>
-    <a href="http://www.youtube.com/watch?v=JPLQxyj6PAY"><img src="/assets/images/2014-02-19-bieber_dancers_airport.jpg" alt="A still from a Youtube video where Justin Bieber’s dancers are improv dancing in an airport."></a>
+    <a href="http://www.youtube.com/watch?v=JPLQxyj6PAY"><img src="/assets/images/2014-02-19-bieber_dancers_airport.jpg" alt="A still from a Youtube video where Justin Bieber’s dancers are improv dancing in an airport." /></a>
 </figure>
 
 Hey, have you ever seen Justin Bieber’s [“Beauty and the Beat” music video](http://www.youtube.com/watch?v=Ys7-6_t7OEQ)? The one at the pool, that kind of looks like it’s all shot in one take except Justin jumps into the water and comes out with his hair perfectly styled? 

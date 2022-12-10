@@ -24,7 +24,7 @@ tags:
 ---
 
 <figure>
-    <a href="http://www.youtube.com/watch?v=B9TMzQjHK9U"><img src="/assets/images/2014-01-29-parris_goebel_i_heart_cali_boys.jpg" alt="A still from a Youtube dance video by Parris Goebel. It's black and white. In the foreground, Parris' flat-brimmed profile is visible. She's just walked into a room of men (they are dancers lol), and it's the moment where Parris realizes it's just her. Don't worry, it ends well."></a>
+    <a href="http://www.youtube.com/watch?v=B9TMzQjHK9U"><img src="/assets/images/2014-01-29-parris_goebel_i_heart_cali_boys.jpg" alt="A still from a Youtube dance video by Parris Goebel. It's black and white. In the foreground, Parris' flat-brimmed profile is visible. She's just walked into a room of men (they are dancers lol), and it's the moment where Parris realizes it's just her. Don't worry, it ends well." /></a>
 </figure>
 
 This video was originally scheduled to go out in two weeks, but I could not wait to show it to y’all. It pained me even to wait until this Wednesday!

@@ -16,7 +16,7 @@ tags:
 ---
 
 <figure>
-    <a href="http://youtu.be/9TZYvud_ngY"><img src="/assets/images/2014-02-26-kyle_hanagami_yonce.jpg" alt="A still from a Youtube dance video by Kyle Hanagami. Haley Fitzgerald is standing point, with Kyle Hanagami and Brandon Dumlao behind her. Their backs are to the camera, and they're facing down with their left arms extended behind them. Haley's hair looks messy and hot, as if she's been whipping her hair and putting her hands through it (yes, she has)."></a>
+    <a href="http://youtu.be/9TZYvud_ngY"><img src="/assets/images/2014-02-26-kyle_hanagami_yonce.jpg" alt="A still from a Youtube dance video by Kyle Hanagami. Haley Fitzgerald is standing point, with Kyle Hanagami and Brandon Dumlao behind her. Their backs are to the camera, and they're facing down with their left arms extended behind them. Haley's hair looks messy and hot, as if she's been whipping her hair and putting her hands through it (yes, she has)." /></a>
 </figure>
 
 Guys, I am SO excited. I saw this video about a month ago, and was SO READY to share it with you guys, but then it got taken down! I was saddened to the core of my being. And then, on the eve of WAWD-Wednesday, it was back up! So please, do excuse the repeating of Beyoncé songs. It is so, so worth it.
