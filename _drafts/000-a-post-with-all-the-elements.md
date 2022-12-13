@@ -1,9 +1,8 @@
 ---
-title: A post with all the elements
+title: Test post with all the elements
 
-last_updated: 2021-05-15
+last_updated: 2022-12-13
 permalink: "/test"
-published: true
 
 categories:
 - site
@@ -50,10 +49,22 @@ This is what an ordered list looks like ([text from this article](https://canoe.
 
 Dope animals: 
 - Panda
+    - Use a tab in the code to nest a list item
 - Cat
 - Bird
 - Shark
 - Bugs, all kinds
+
+<aside>
+    <p>This is what an <code>aside</code> looks like</p>
+    <p>
+        I noticed that <a href="https://robinsloan.com">Robin Sloan</a> separates the act of publishing his content to the web from the act of sharing that content with others. In the newsletters that he (quite infrequently) sends, he includes a short list of recent-ish developments in his world of content creation. And then when I click through I'll sometimes find that there's even more new stuff that I hadn't seen before. 
+    </p>
+    <p>
+        The email is a vehicle for content discovery, and because he has more control over the vehicle itself, he's able to editorialize and annotate. I'm so intrigued by this format and the pacing for sharing it allows!
+    </p>
+</aside>
+
 
 ![An image of a cat that is really big](http://placekitten.com/1000/750)
 <small>A big image embedded using Markdown (gets encapsulated in a <code>p</code>)</small>
