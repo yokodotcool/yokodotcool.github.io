@@ -20,7 +20,6 @@ defaults:
       layout: "page"
 
 plugins:
-  # - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
