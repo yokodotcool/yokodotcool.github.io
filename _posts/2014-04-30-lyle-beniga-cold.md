@@ -24,7 +24,7 @@ The pacing of this choreo makes me sigh with envy. At one moment, Beniga is smoo
 
 And he’s got so. Much. Swag. Beniga takes a choreo and turns it into a performance.
 
-Fun fact: Most class or workshop videos like this one show a version of the routine where the choreographer will perform an extended version of what he or she taught, along with a clip of the routine performed by a select group of students. In this case, the people in the second group are Chachi Gonzalez of IamMe (same crew as [Pacman]()), Ian Eastwood of Mos Wanted, [Keone and Mari Madrid](), and Bilal, Nasir, and Suleman of Quick Crew (in the back). I love seeing dancers and choreographers take classes from one another! Glad to know that even the most talented folks out there are still looking to hone their craft. 
+Fun fact: Most class or workshop videos like this one show a version of the routine where the choreographer will perform an extended version of what he or she taught, along with a clip of the routine performed by a select group of students. In this case, the people in the second group are Chachi Gonzalez of IamMe (same crew as [Pacman]({% post_url 2014-04-16-pacman %})), Ian Eastwood of Mos Wanted, [Keone and Mari Madrid]({% post_url 2014-01-08-keone-mari-madrid %}), and Bilal, Nasir, and Suleman of Quick Crew (in the back). I love seeing dancers and choreographers take classes from one another! Glad to know that even the most talented folks out there are still looking to hone their craft. 
 
 [Watch video!](https://www.youtube.com/watch?v=yGelPVy3HBE)
 
