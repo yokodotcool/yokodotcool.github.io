@@ -31,6 +31,6 @@ It's made with [Jekyll](https://jekyllrb.com/), and it runs on [Github Pages](ht
 </section>
 {% endif %}
 
-<!-- The sans-serif font is [GT America](), licensed from [Grilli Type](). The serif is TNR, a *classique*. This site uses no trackers ✨ -->
+The sans-serif font is [GT America](https://www.gt-america.com/), licensed from [Grilli Type](https://www.grillitype.com/). The serif is TNR, a *classique*.
 
 <script type="text/javascript">insertGreeting();</script>
