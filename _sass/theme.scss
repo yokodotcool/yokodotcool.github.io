@@ -2,21 +2,65 @@
 // Default text & background colors
 // Contrast colors are meant for adding a little bit of visible contrast against the defaults. Should still be accessible tho
 // Accent colors are for significant contrast against defaults.
-$color-default-fg: #f8f8ff;
-$color-default-bg: #18181B; 
-$color-contrast-fg: #ffe0ff; 
-$color-contrast-bg: #202024; 
-$color-accent-fg: #ffb8c0; 
-$color-accent-bg: #906000;
+$color-default-fg: #333235;
+$color-default-bg: #FFFAF2; 
+$color-contrast-fg: #6B6B6B; 
+$color-contrast-bg: #FFFFFF; 
+$color-accent-fg: #886F54; 
+$color-accent-bg: #FFE8C2;
+// GT-America <3
+@font-face {
+    font-family: 'GT-America';
+    src: 
+        url('/assets/fonts/gt-america/GT-America-LV-Standard-Light.woff2') format('woff2'),
+        url('/assets/fonts/gt-america/GT-America-LV-Standard-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GT-America';
+    src: 
+        url('/assets/fonts/gt-america/GT-America-LV-Standard-Light-Italic.woff2') format('woff2'),
+        url('/assets/fonts/gt-america/GT-America-LV-Standard-Light-Italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'GT-America';
+    src: 
+        url('/assets/fonts/gt-america/GT-America-LV-Standard-Medium.woff2') format('woff2'),
+        url('/assets/fonts/gt-america/GT-America-LV-Standard-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GT-America';
+    src: 
+        url('/assets/fonts/gt-america/GT-America-LV-Standard-Medium-Italic.woff2') format('woff2'),
+        url('/assets/fonts/gt-america/GT-America-LV-Standard-Medium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
 // TYPOGRAPHY
-$type-family-sans: 'Helvetica', 'Trebuchet MS', sans-serif;
+$type-family-sans: GT-America, 'Helvetica', 'Trebuchet MS', sans-serif;
 $type-family-serif: 'Times New Roman', serif;
 $type-family-mono: monospace;
 $type-family-lmao: cursive; // For s&g's
 $type-lh-base: 1.5em;
 $type-lh-tight: 1.2em;
+$type-ls-base: 0em;
+$type-ls-wide: .02em;
+$type-ls-extended: .05em;
 $type-size-base: 24px; // In smallest viewports this becomes 18px (75%)
 $type-size-small: 18px; 
+$type-weight-regular: 300;
+$type-weight-bold: 500;
+em, i {
+    font-style: italic;
+}
+strong, b {
+    font-weight: $type-weight-bold;
+}
 // BORDER-RADIUS
 $border-radius-big: 0.5em;
 // $border-radius-small: 0.25em;
@@ -25,18 +69,22 @@ body {
     color: $color-default-fg;
     font-family: $type-family-sans;
     font-size: $type-size-base;
+    font-weight: $type-weight-regular;
     h1 {
         color: $color-accent-fg;
-        font-family: $type-family-serif; 
-        font-size: 2.5em;
-        font-style: italic;
-        font-weight: 400;
+        font-family: $type-family-sans; 
+        font-size: .625em;
+        font-weight: $type-weight-bold;
+        letter-spacing: $type-ls-extended;
         line-height: $type-lh-tight;
+        text-transform: uppercase;
     }
     h2, h3, h4, h5, h6 {
         color: $color-contrast-fg;
         font-family: $type-family-serif; 
         font-style: italic;
+        font-weight: $type-weight-regular;
+        letter-spacing: $type-ls-wide;
         line-height: $type-lh-tight;
     }
     p, ol, ul, dl {
@@ -44,7 +92,6 @@ body {
         line-height: $type-lh-base;
     }
     a {
-        color: inherit;
     }
     aside {
         background-color: $color-contrast-bg;
@@ -78,7 +125,7 @@ body {
         line-height: $type-lh-tight;
     }
     > footer {
-        background-color: $color-contrast-bg;
+        background-color: $color-accent-bg;
         
         p {
             font-family: $type-family-serif;
