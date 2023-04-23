@@ -15,7 +15,7 @@ I also like to [talk shop](https://blog.get-merit.com/office-hours-with-yoko-sak
 
 ## This wobsite
 
-It's made with [Jekyll](https://jekyllrb.com/), and it runs on [Github Pages](https://jekyllrb.com/). I've been a web dev noob for 20+ years lol and now and then I'll mess around with my site for fun. Here are some notable updates of late:
+It's made with [Jekyll](https://jekyllrb.com/), and it runs on [Github Pages](https://github.com/yokodotcool/yokodotcool.github.io). I've been a web dev noob for 20+ years lol and now and then I'll mess around with my site for fun. Here are some notable updates of late:
 
 <!-- Show posts categorized as "recent," if there are any -->
 {% assign recent_posts = site.categories.recent %}
