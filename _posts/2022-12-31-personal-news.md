@@ -7,6 +7,7 @@ published: true
 
 categories:
 - personal
+- recent
 
 tags:
 - wraps

@@ -7,7 +7,6 @@ published: true
 
 categories:
 - site
-- recent
 
 tags:
 - updates
