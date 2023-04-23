@@ -5,3 +5,4 @@ vendor
 .jekyll-metadata
 .jekyll-cache
 .DS_Store assets/fonts/gt-america/*
+assets/fonts/gt-america/*
