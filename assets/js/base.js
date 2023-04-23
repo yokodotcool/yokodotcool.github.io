@@ -32,8 +32,10 @@ var greetingList = [
     'Hellooo',
     'Heyo',
     'Hiii',
-    'Oh hi',
-    'Hhhi'
+    'Heya',
+    'Hhhi',
+    'Suppp',
+    'Yooo'
 ];
 
 function insertGreeting() {
