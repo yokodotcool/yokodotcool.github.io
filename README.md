@@ -1,3 +1,6 @@
-# README file for yoko.cool
+But no matter what nonsense I write in it
+please know that those are not my last words
+There are other words and other worlds
 
-Wow everyone can read this and that’s cool ¯\\\_(ツ)\_/¯
+You may read them
+But please remember these aren’t his last words either
