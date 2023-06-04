@@ -26,7 +26,7 @@ tags:
 {% assign wawd_posts = site.categories.wawd %}
 
 <p>
-    All {{ wawd_posts.size }} editions of WAWD, “remastered” for reading on this website. Ordered from latest to earliest:
+    {{ wawd_posts.size }} editions of WAWD, “remastered” for reading on this website. Ordered from latest to earliest:
 </p>
 
 <ul class="wawd-thumbnail-list">
