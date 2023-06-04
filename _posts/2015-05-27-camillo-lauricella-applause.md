@@ -17,7 +17,7 @@ tags:
 ---
 
 <figure>
-	<a href="https://www.youtube.com/watch?v=mbH-ipfLeVc"><img src="/assets/images/2015-05-27-camillo-lauricella-applause.jpeg" alt="A group of kids on stage, looking triumphantly down at the camera. Their arms show that they've made a 'blaow' explosive motion." /></a>
+	<a href="https://www.youtube.com/watch?v=mbH-ipfLeVc"><img src="/assets/images/2015-05-27-camillo-lauricella-applause.jpeg" alt="Camillo Lauricella, waisted flannel catching the wind from a big fan on the floor, turns over his shoulder to look at us with a confident, seductive grin." /></a>
 </figure>
 
 There’s something about Camillo Lauricella—every time he dances it’s like he’s putting on a full-on show (see this [last writeup]({% post_url 2014-10-29-camillo-lauricella-got-me-good %})). It’s not just that he’s great at choreography, or that he’s getting the moves right. It’s that every time he dances, he dances as if everyone is watching, and that instantly makes it into a spectacular performance.
