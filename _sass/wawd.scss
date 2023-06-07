@@ -1,25 +1,24 @@
 @import "theme";
 
-// It seems appropriate to separate WAWD styles from the theme styles ...
+// Thank you https://codepen.io/thebabydino/pen/JjYwzmL
 
 ul.wawd-thumbnail-list {
     list-style-type: none;
-    overflow: hidden;
     padding-left: 0;
 
-    > li {
-        float: left;
-        font-size: $type-size-small;
-        margin-right: 18px;
-        text-align: center;
-        width: calc((100% - 36px)/3);
+    display: grid;
+    grid-gap: .5em;
+    grid-template-columns: repeat(auto-fit, minmax(Min(8em, 100%), 1fr));
+    grid-auto-flow: row;
 
-        &:nth-of-type(3n) {
-            margin-right: 0px;
+    > li {
+        font-size: $type-size-small;
+        line-height: $type-lh-tight; 
+
+        img {
+            height: 8em; 
+            object-fit: cover;
+            width: 100%;
         }
     }
-}
-
-@media all and (min-width: 800px) {
-    
 }
