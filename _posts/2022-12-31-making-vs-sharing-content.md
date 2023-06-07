@@ -7,7 +7,6 @@ published: true
 
 categories:
 - personal
-- recent
 
 tags:
 - notes

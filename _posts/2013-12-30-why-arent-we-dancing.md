@@ -7,6 +7,7 @@ permalink: "why-arent-we-dancing"
 categories:
 - projects
 - featured
+- recent
 
 tags:
 - dance

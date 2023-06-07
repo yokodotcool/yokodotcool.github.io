@@ -6,6 +6,7 @@ permalink:
 
 categories:
 - personal
+- recent
 
 tags:
 - vacation
