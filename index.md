@@ -5,7 +5,7 @@ permalink: "/"
 
 ## <span id="random-greeting"></span> ~
 
-I’m Yoko. I like thunderstorms, the smell of cedar, and organizing my life into spreadsheets and spreadsheet-like products. [My husband](https://kiwimonk.com) and I live in [Sunset Park, Brooklyn](https://en.wikipedia.org/wiki/Sunset_Park,_Brooklyn) aka THE best neighborhood of all time, with two chaotic roommates: a [middle-aged cat](https://arc.net/e/84748DE8-8CDB-4BDE-8093-4B43DD713C0F) and an infant human.
+I’m Yoko. I like street cats, jacket weather, and inviting friends on errands. [My husband](https://kiwimonk.com) and I live in [Sunset Park, Brooklyn](https://en.wikipedia.org/wiki/Sunset_Park,_Brooklyn) aka THE best neighborhood of all time, with two chaotic roommates: a [middle-aged cat](https://arc.net/e/84748DE8-8CDB-4BDE-8093-4B43DD713C0F) and an infant human.
 
 ## Work work talk talk 
 
